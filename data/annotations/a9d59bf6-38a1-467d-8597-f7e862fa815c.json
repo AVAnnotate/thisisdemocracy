@@ -1572,10 +1572,6 @@
           "tag": "Diplomacy and Peacebuilding"
         },
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Checks and Balances"
-        },
-        {
           "category": "Conflict, Power and International Relations",
           "tag": "Warfare and Society"
         },
@@ -1584,8 +1580,8 @@
           "tag": "Economic Power"
         },
         {
-          "category": "_uncategorized_",
-          "tag": ""
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
         }
       ],
       "uuid": "10404450-9ce9-4b8d-9456-ad33307cf770"
