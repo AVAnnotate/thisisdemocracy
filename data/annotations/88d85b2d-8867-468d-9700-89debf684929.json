@@ -2121,12 +2121,16 @@
           "tag": "Political Violence"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Warfare and Society}Diplomacy and Peacebuilding"
-        },
-        {
           "category": "Speakers",
           "tag": "Salim Yaqub"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
         }
       ],
       "uuid": "40116932-b89f-43ba-aed8-a62260e6b4ab"
