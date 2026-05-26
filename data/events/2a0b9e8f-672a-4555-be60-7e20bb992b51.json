@@ -1,0 +1,84 @@
+{
+  "audiovisual_files": {
+    "39d0e7fc-2a63-4d8b-b36d-d3a5df303fc6": {
+      "label": "Episode 138: The Filibuster",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2021/03/2021-03-10_This-is-Democracy_Episode-138_Master.mp3",
+      "duration": 1805,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jeremi and Zachary, with Dr. Sean Theriault discuss congressional politics and question whether the U.S. Senate should continue to have a rule for a Filibuster."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dr. Sean Theriault is a professor in the Department of Government at the University of Texas at Austin. He is a leading scholar of American political institutions, and the U.S. Congress in particular. Sean has published five books: "
+        },
+        {
+          "text": "Congress: The First Branch",
+          "italic": true
+        },
+        {
+          "text": " (with Mickey Edwards; Oxford University Press, 2020), "
+        },
+        {
+          "text": "The Great Broadening",
+          "italic": true
+        },
+        {
+          "text": " (with Bryan Jones and Michelle Whyman; University of Chicago Press, 2019), "
+        },
+        {
+          "text": "The Gingrich Senators",
+          "italic": true
+        },
+        {
+          "text": " (Oxford University Press, 2013), "
+        },
+        {
+          "text": "Party Polarization in Congress ",
+          "italic": true
+        },
+        {
+          "text": "(Cambridge University Press, 2008), and "
+        },
+        {
+          "text": "The Power of the People",
+          "italic": true
+        },
+        {
+          "text": " (Ohio State University Press, 2005). He has also published numerous articles in a variety of journals on subjects ranging from presidential rhetoric to congressional careers and the Louisiana Purchase to the Pendleton Act of 1883."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Episode 138: The Filibuster",
+  "av_file_order": [
+    "39d0e7fc-2a63-4d8b-b36d-d3a5df303fc6"
+  ],
+  "created_at": "2026-05-26T16:42:11.210Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-05-26T16:42:11.210Z",
+  "updated_by": "raymondhyser"
+}
