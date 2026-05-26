@@ -1,0 +1,86 @@
+{
+  "audiovisual_files": {
+    "f0cc7eb8-ee62-4a01-8458-865001481575": {
+      "label": "Episode 251: Middle East in the 1970s and Today",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2023/11/2023-11-29_This-Is-Democracy_master.mp3",
+      "duration": 3741,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This week, Jeremi and Zachary are joined by Professor Salim Yaqub to discuss how the 1970s changed the Middle East, and how those changes are still relevant in the modern day."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zachary sets the scene with his poem entitled, “To Israel, a Widow”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Salim Yaqub is Professor of History at the University of California, Santa Barbara, and Director of UCSB’s Center for Cold War Studies and International History. He is the author of three books: "
+        },
+        {
+          "text": "Containing Arab Nationalism: The Eisenhower Doctrine and the Middle East",
+          "italic": true
+        },
+        {
+          "text": " (University of North Carolina Press, 2004), "
+        },
+        {
+          "text": "Imperfect Strangers: Americans, Arabs, and U.S.–Middle East Relations in the 1970s",
+          "italic": true
+        },
+        {
+          "text": " (Cornell University Press, 2016), and "
+        },
+        {
+          "text": "Winds of Hope, Storms of Discord: The United States since 1945",
+          "italic": true
+        },
+        {
+          "text": " (Cambridge University Press, 2023). He has also written several articles and book chapters on the history of U.S. foreign relations, the international politics of the Middle East, and Arab American political activism."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Episode 251: Middle East in the 1970s and Today",
+  "av_file_order": [
+    "f0cc7eb8-ee62-4a01-8458-865001481575"
+  ],
+  "created_at": "2026-05-26T22:50:45.962Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-05-26T22:50:45.962Z",
+  "updated_by": "raymondhyser"
+}
