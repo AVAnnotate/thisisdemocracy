@@ -600,12 +600,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Diplomacy and Peacebuilding"
-        },
-        {
           "tag": "Jeremi Suri",
           "category": "Speakers"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
         }
       ],
       "uuid": "27656508-d421-48b6-bede-9783b77d540c"
