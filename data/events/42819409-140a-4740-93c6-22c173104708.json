@@ -1,0 +1,82 @@
+{
+  "audiovisual_files": {
+    "8fdb5454-da92-42bd-a9b4-c12619dfeb09": {
+      "label": "Episode 264: Free Trade and Peace",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2024/05/2024-05-28_This-is-Democracy_final-1.mp3",
+      "duration": 2750,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This week, Jeremi and Zachary are joined by Dr. Marc-William Palen to discuss the history of free trade and associated hopes for international peace.\n\nZachary sets the scene with his poem entitled, “A World at Sail”\n\nMarc-William Palen is a historian at the University of Exeter. His new book, "
+        },
+        {
+          "text": "Pax Economica: Left-Wing Visions of a Free Trade World",
+          "italic": true
+        },
+        {
+          "text": " (Princeton University Press), was published in early 2024 and has been named among the year’s “best books” by the "
+        },
+        {
+          "text": "New Yorker",
+          "italic": true
+        },
+        {
+          "text": ". His other publications include "
+        },
+        {
+          "text": "The ‘”Conspiracy” of Free Trade: The Anglo-American Struggle over Empire and Economic Globalisation, 1846-1896",
+          "italic": true
+        },
+        {
+          "text": " (Cambridge University Press, 2016). His work has also appeared in "
+        },
+        {
+          "text": "Le Monde, Time Magazine",
+          "italic": true
+        },
+        {
+          "text": ", the "
+        },
+        {
+          "text": "Washington Post,",
+          "italic": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "Australian",
+          "italic": true
+        },
+        {
+          "text": ", and the "
+        },
+        {
+          "text": "New York Times",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Episode 264: Free Trade and Peace",
+  "av_file_order": [
+    "8fdb5454-da92-42bd-a9b4-c12619dfeb09"
+  ],
+  "created_at": "2026-05-26T22:34:11.940Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-05-26T22:34:11.940Z",
+  "updated_by": "raymondhyser"
+}
