@@ -817,16 +817,16 @@
           "tag": "Diplomacy and Peacebuilding"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Political Greivances"
-        },
-        {
           "category": "Conflict, Power and International Relations",
           "tag": "Structural Drivers of Conflict"
         },
         {
           "category": "Speakers",
           "tag": "Salim Yaqub"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
         }
       ],
       "uuid": "d36f99b3-7c29-40e8-97bc-7f7b719f41f4"
