@@ -260,10 +260,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Warfare and Scoiety"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Diplomacy and Peacebuilidng"
         },
         {
@@ -293,7 +289,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-05-26T23:14:10.079Z",
+    "updated_at": "2026-05-26T23:14:14.798Z",
     "generate_pages_site": true
   },
   "annotations": {},
