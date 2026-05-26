@@ -1,5 +1,2549 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy. A podcast about the people of the United States. A podcast about citizenship. About engaging with politics and the world around you. A podcast about educating yourself on today's important issues. And how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "bd633555-7a6d-43f0-afd5-a907ee9b708d"
+    },
+    {
+      "start_time": 25,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of this is democracy. This week, we are going to return to the Middle East. We did an episode a few weeks ago with Peter Beinart on the conflict between Israel and Hamas. And today we're going to take an even more historical deep dive. We're going to look at the 1970s, which I think historians have come to agree is a period of major transformation in the region. And we're going to look at what happened in the 1970s and how the experience of that crucial decade had deep influence upon the events that we're seeing today and probably will continue to have deep influence upon where we go from where we are today in the region. This is a case where history is not only part of the past, but really is ever present in our contemporary conflicts and our contemporary efforts to understand the conflicts around us. We're fortunate to be joined by a person who's a close friend and someone who I think is one of the really great scholars of the Middle East from the 1960s to the present. This is Salim Yaqub. He's a professor of history at the University of California, Santa Barbara. and director of UCSB Center for Cold War Studies and International History. Salim, it's so good to have you on the podcast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "80a0cb89-4bd5-49bd-9033-a3ad2fb3395f"
+    },
+    {
+      "start_time": 108,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's wonderful to be here. Thank you so much for having me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "03c3cc27-c7be-4e66-af9c-e9ee2ca58cde"
+    },
+    {
+      "start_time": 112,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salim Yaqub is the author of three books that I highly recommend to all of our listeners. His first book, Containing Arab Nationalism, is really, I think, as close to the definitive work as is possible on the Eisenhower Doctrine in the Middle East, which was really the first American Cold War Doctrine for major influence, even perhaps for attempted dominance in the region."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "57ebf7d7-2378-4d1f-8d6b-08b82d5edfeb"
+    },
+    {
+      "start_time": 135,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salim's second book, which is really one of my favorites, \"Imperfect Strangers: Americans, Arabs, and the US Middle East relations in the 1970s\". This is a book that looks at events in the Middle East, but also within the United States and the emerging Arab American community, which becomes very important as Salim shows to American politics in the 1970s. It's also a book filled with wonderful anecdotes about Woody Allen. and Henry Kissinger and various other individuals. So I encourage all of our listeners to read it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5151179b-5f11-44ec-a91a-c0df19924c86"
+    },
+    {
+      "start_time": 166,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Salim's most recent book, \"Winds of Hope, Storms of Discord\". What a great title. The United States since 1945. And that title would certainly apply to the present as well as the entire period from 1945 to the present. Salim has written many important articles and other chapters on U.S. foreign policy, on the Middle East, and on Arab American political activism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "e9fb79e6-7833-49d8-b199-569d42587bc6"
+    },
+    {
+      "start_time": 191,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before we turn to our conversation with Salim, we have, of course, our scene setting poem from Mr. Zachary Suri. Zachary, what's the title of your poem today? \"To Israel, a Widow\". \"To Israel, a Widow\". Wow. Let's hear it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "0aa81d3c-e3ee-4479-be42-711a006580ed"
+    },
+    {
+      "start_time": 207,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Isaac Singer once said you were an encounter with the supposedly dead, and I suppose he is right. You're a land of old men and infants held tight and sandy ancient ruined coasts. All of them were always supposed to be ghosts. Few wars can be fought with history, but you have fought them all, have saved a generation from fighting back the fall. Yet, though you have somehow survived on promises that you revived, it must be said you've built yourself a cage. No war should be fought with rage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "d2eeb9ca-018a-4736-81ad-afa04c4731be"
+    },
+    {
+      "start_time": 245,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The grandchildren of the widower, the children of the hollowed, held in their tunnels underground, are lost and must be found. Your neighbors remain, to say the least, uncharitable, Lips smacking for the feast, break through the garden fence. Can there be any recompense? No, I am convinced all moral questions will remain unanswered. You are alive, and soon you must have peace. If only so, it might be said, all had a chance to count their debt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Structurural Drivers of Conflict"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5e0fce99-b8f4-4c6a-9952-ae07f150221e"
+    },
+    {
+      "start_time": 279,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love the doggerel in there Zachary. What is your poem about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5abbe954-d7b5-452f-96e4-01eed88c8d1b"
+    },
+    {
+      "start_time": 284,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My poem? It's hard to explain. I'm not sure I perfectly understand what I was trying to get at either. But. I think it's sort of an attempt to understand the place of Israel today, but also in particular from the perspective of the 1970s, a period when Israel was still led in large part by a generation which was defined by the Holocaust, but it was also beginning to really develop its own sort of distinct Israeli identity that still shaped by that, the sort of last exile to Israel from Europe and other parts of the Middle East, and in some cases from within the territory of Israel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "45277326-bf3e-4c84-bbf4-e5700a38b21d"
+    },
+    {
+      "start_time": 333,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to understand that mindset, but also to apply that to today and how that history informs this moment of violence. between Israel and Hamas and maybe the lessons we can draw from these many decades of conflict."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "02758b32-5ca2-4a73-8375-ff119196a9fc"
+    },
+    {
+      "start_time": 350,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love the arc in your poem, Zachary, from Isaac Bashevik Singer, who sort of represents the early generation of European Ashkenazi Jews who settle Israel. And then, of course, the generational change that I sort of feel in your poem as it goes through to where we are today, which is a Middle East that looks very different, of course, from The world of Isaac Petrovic Singer in the 1950s and 60s, right? Yes, very much so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "96f7ec44-d2f1-4247-a603-96897ba9f0af"
+    },
+    {
+      "start_time": 377,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salim, maybe that's a great point of entry. As I mentioned at the top of the episode, you're one of a number of historians, you're one of the leading historians, making the case that the 1970s, this period about a quarter century after World War II, that the 1970s is a real turning point for the region and also for U.S. policy. How should we begin to understand that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "63953a20-6f36-4b19-8e7c-4080d8077978"
+    },
+    {
+      "start_time": 402,
+      "end_time": 412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. And first I just want to say, thanks for sharing that poem, Zachary. It's very powerful. I'm going to want to go back and read it again, listen to it again and linger over it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "b7365fce-c6ef-469e-9bf1-d76dd3c477c1"
+    },
+    {
+      "start_time": 412,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, in answer to your question Jeremi, the the seventies really are a very pivotal decade for a lot of reasons and in a lot of places, but certainly for the history of the Middle East and the history of U.S. involvement in that region. I mean, what you see in the 70s is the you know, sort of the last vestiges of European imperialism being removed with the British withdrawal from the Persian Gulf region in the, in the first couple years of the decade. You know, the French had vacated North Africa in the previous decade and earlier than that. And so what you see then is a new, or maybe the continuation of a previous era in which the superpowers, the United States and the Soviet Union becoming more and more active in that region. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "d3959334-9727-4861-a029-8f45d7ab1b57"
+    },
+    {
+      "start_time": 469,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's also, and also, you know, they're bringing the Cold War struggle, you know, to the region in a way that hadn't quite happened previously. Also, I mean, certainly the 1973 war is very key for all sorts of reasons that we'll probably get into. It's, you know, during and shortly after that war that the power of the oil producing Middle Eastern states, and in this case, particularly the Arab states, because they actually mount an embargo against the United States and some Western countries becomes, you know, unavoidable, you know, it becomes impossible to ignore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "39189974-461a-4614-b5e0-7454bfafba8e"
+    },
+    {
+      "start_time": 509,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course, the lingering after effects of the oil embargo and of the OPEC price increases are gonna last for the remainder of the decade and into the following one. And, you know, also the manner in which the Arab Israeli War of 1973 ends and the kind of diplomacy that comes in its wake sets the agenda for Arab Israeli peacemaking for years and in some cases, you know, arguably decades to come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "9e7628bf-451a-426a-9a71-99a533b4b7d6"
+    },
+    {
+      "start_time": 543,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's, and then I guess you could, I would just add that, if you fast forward to the closing years of the decade, you start seeing the emergence of political Islam as a really powerful force, primarily with the Iranian revolution of 1978 to 1979. But there also were some pretty important events taking place in the Arab world. The seizure of the Grand Mosque in Mecca in 1979, you know, right around the same time that the Iranian hostage crisis begins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "a0b45443-a2ed-4bbf-95c2-8c9fbf4f8b19"
+    },
+    {
+      "start_time": 578,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And if, you know, if you want to count, consider the Middle East in its more, in a broader geographical frame, you could look at the Soviet Invasion of Afghanistan, also right around that time in December 1979 as ushering in a whole new set of issues that will define the last years of the Cold War and set the agenda for the way in which the Cold War ends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "9f2b13a1-f793-46de-9f19-9fbf4a34f43e"
+    },
+    {
+      "start_time": 605,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Certainly you've given us a sense of the density of conflict and change occurring in that, in that decade. Zachary, you had a question? Yeah.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "cd4c9868-ce82-4107-9690-6918cafde62e"
+    },
+    {
+      "start_time": 614,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why was the 1973 war, which you mentioned, so transformative for Jews, Arabs, Muslims, and also for, for many Americans?\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "0ce7a169-242a-40db-a933-f384c2dccf50"
+    },
+    {
+      "start_time": 624,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's a great question. Well certainly it's transformative for Arabs and Israelis because it's sort of place puts the Arab Israeli conflict into a new dimension, you know, the immediately preceding years, you know, between 1967 and 1973 were ones in which the Israelis were occupying the lands that they had taken over in that war. And they sort of felt invincible. They didn't think that they really needed to, take seriously the diplomatic overtures that the Egyptian government under President Sadat had extended to them early, you know, earlier in the decade. They felt that they could really hold out for a much more dramatic set of concessions coming from the Arab side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "cc3de26d-2b2d-43e7-acad-0bd63dc8d3a6"
+    },
+    {
+      "start_time": 683,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And essentially what happens with the 1973 war, which is on the Arab side, waged by Egypt and Syria primarily, is that it kind of shocks the Israelis out of their complacency and forces them to confront the fact that they actually really are still vulnerable. And that in turn, you know, makes it increasingly clear to them that they have to reach some kind of political accommodation with their Arab neighbors perhaps on terms, you know, not quite as favorable as the ones that they had been holding out for previously. And it's also, it's from the Arab side, it's important because it rekindles a sense of pride or restores a sense of pride that had been very seriously damaged by the debacle of 1967."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "e284141d-4ace-4368-bd5f-54f9024eb687"
+    },
+    {
+      "start_time": 736,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in fact, I mean, from the standpoint at least of Egypt. It's psychologically very important because Egypt and Sadat feel that they need to show the world, and maybe more particularly the United States and Israel, that they're not total pushovers, that they are, you know, that Egypt is a force to be reckoned with. And having made that case, even though Militarily, the war ends up going quite badly for both Egypt and Syria. Nonetheless, because they do a lot better than they did in 1967, that restores a measure of respect, and maybe more importantly, self respect, and that gives at least Sadat the confidence to move forward and enter into increasingly intimate peace negotiations with Israel, you know, at first brokered by the United States, but eventually face to face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "c7bc704b-8cbf-4032-bf65-f57f076b3da1"
+    },
+    {
+      "start_time": 799,
+      "end_time": 823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't want us to jump too quickly to the present. I want us to stay in the seventies, but the question really has to be asked. Many have made an analogy between the October, 2023 Hamas attack on Israel and the 1973 attack by the Arab states on Israel, do you see an analogy between those two events?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "7c0439c6-9e0c-4b35-9485-e4e30c280746"
+    },
+    {
+      "start_time": 823,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I mean, there are some similarities, but in the end, I would say they're kind of superficial. I mean, I guess the, you know, one, obviously, it's an attack on Israel. Although in the 1973 case, it's not an attack on Israel per se. It's an attack on Israeli forces in the Sinai Peninsula and the Golan Heights. But nonetheless, it's an attack that the Israelis are not prepared for. And, is much more damaging to the Israelis than anyone thought possible. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "130f9319-e794-417a-9d2e-def824c45917"
+    },
+    {
+      "start_time": 856,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course, the major difference between 1973 and 2023 is that this is, the attack by Hamas is, you know, primarily against civilians. It entails not traditional military methods, but really horrific, and, you know, close up forms of attack that were, of course, recorded in very grisly ways that, and so that the level of shock, I think extends, it's a different kind of shock. It's a much more visceral sort of shock. And I think it is extended, it has extended much more, powerfully around the world then and especially the Western world than the shock of 1973 did, you know, partly because of the nature of the attack, and also because of the nature of media now as opposed to 50 years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "3d7d69ab-a7e6-4184-afe6-00754bf879d5"
+    },
+    {
+      "start_time": 915,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the things that's striking about the '73 war to me as a historian, Salim, and I wonder if you react the same way, is how this terrible war, and a war that initially looked like it might lead to the collapse of Israel and then, as you said, turns around relatively quickly with Israel occupying for a short time more territory than it had before the war. Correct. How, this terrible war then leads to a peace process? First of all, do you see a connection between what many call the Camp David process that eventually leads to an agreement between Israel and Egypt brokered in part by the United States? Do you see a strong connection there? And how should we understand that connection?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "66c4c514-21bb-4ca4-94ea-2efc99aa27af"
+    },
+    {
+      "start_time": 963,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah, there is a very strong connection. I mean, I would frame it in the following way, that the war and its immediate aftermath opened up a new phase in which it was widely recognized that some sort of diplomatic process between Israel and its Arab neighbors was both possible and necessary. I mean, on that, virtually everyone agreed. The difference was on the scope and nature of that diplomatic process."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "77922a30-fab5-4aac-85eb-0b5f265dbf2c"
+    },
+    {
+      "start_time": 997,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was, at the end of the war, an emerging international consensus that what really needed to happen was, as some sort of comprehensive settlement, between Israel on the one hand and its Arab neighbors on the other, you know, with the Palestinians playing some kind of role, although that was not clearly understood as yet. And as a result of this process, you know, according to this vision, you would have a full Israeli withdrawal from all of the territories occupied in 1967. That would be the West Bank, Gaza Strip, the Golan Heights, the Sinai Peninsula, and in exchange for that withdrawal, the Arab states would extend recognition to Israel and commit to living in peace with Israel, which was something they had not previously done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Greivances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "d36f99b3-7c29-40e8-97bc-7f7b719f41f4"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in most cases continued to refuse to do in the years after 1960 and 1973. So that was the emerging consensus that you start to see in late '73 early 1974. But there's also, there's a contrary scenario and this is the one that is put forward most powerfully and resourcefully by Secretary of State Henry Kissinger, who does not think that it would be a good idea for the United States to pressure Israel to withdraw from all of the territory occupied in 1967. He thinks that a more stable scenario is one in which Israel is allowed to hold on to significant portions of that occupied territory. Now, we can later talk about why he felt that way, but that's was what he wanted to do. And so what Kissinger sets out to do, and it's really a pretty remarkable diplomatic performance, is he brokers or he encourages the development of a dialogue between Egypt and Israel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "1a3f557b-9683-4fc3-b164-cdd63f64aa84"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He quite early intuits that Anwar Sadat of Egypt, although he would much prefer a comprehensive settlement in which Israel withdraws from all of the occupied territory from 1973, nonetheless, I'm talking about Sadat now, would be willing to accept some, a more bilateral arrangement where Egypt gets back the Sinai and the remaining Arab territories are either, you know, either remain under Israeli control or their status is you know, less certain. I mean, the sine qua non for Sadat is getting back the Sinai, and he's willing to take a less hardline view regarding the other occupied territories. Kissinger, you know, very brilliantly senses this. You know, almost immediately after the war ends. So Kissinger, you know, very skillfully cultivates Sadat and, you know, takes advantage of the fact that Sadat is willing to be a lot more conciliatory in negotiations with Israel than other Arab parties, especially, Assad, Hafez al Assad of Syria is prepared to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "4441a883-9a8f-4f09-9ddc-c4069ca35641"
+    },
+    {
+      "start_time": 1194,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so through a series of very complicated and clever diplomatic initiatives, he manages to sideline Syria, although that takes, that process takes a couple of years and it's something that Asad himself is not quite aware is occurring until it's too late for him to stop it. He ends, he brings an end to the Arab oil embargo and he, essentially puts in place a diplomatic process where Egypt withdraws from the confrontation with Israel, and the beauty of that, from Kissinger's perspective, is that it results in the subtraction of Egyptian power from the Arab Israeli equation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "b1274b43-1422-45ff-bddf-459d44388a4d"
+    },
+    {
+      "start_time": 1242,
+      "end_time": 1287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And once that has been accomplished, the ability of the remaining Arab actors, Syria, Jordan, the Palestine Liberation Organization, you know, these, the other parties that have territorial claims, that they want to see satisfied, their ability to get those claims satisfied is sharply diminished in the absence of Egyptian power. And that in a sense makes it impossible for another Arab Israeli war like the one that occurred in 1973 to break out. And indeed, if you look over the history over the last five decades, there's been plenty of really, really horrific strife, but there has been no general Arab Israeli war of that sort."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "323bc6ba-5b31-479e-9f0c-dfbecd1a17ba"
+    },
+    {
+      "start_time": 1287,
+      "end_time": 1333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, that achieves Kissinger's objectives of first removing a flashpoint that he fears could spark a superpower confrontation, but it also eases the pressure on Israel. And makes it possible for Israel to take its time about considering withdrawal from any other occupied territories. And you know, as we've seen, the extent to which Israel has relinquished territories after giving up the Sinai Peninsula to Egypt, that was the big key that Egypt, that was the key gain that Egypt made. And that was realized, not under Kissinger, but under Jimmy Carter a few years later with Camp David."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "67aa9525-db5d-4c62-b940-3c30e9856e39"
+    },
+    {
+      "start_time": 1333,
+      "end_time": 1383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once Egypt has the Sinai Peninsula back, it's out of the war. And then Israel's occupation of the remaining territories is fortified. Now obviously the conflict has taken ups and downs. The diplomacy has gone through ups and downs ever since that time. But I think the key ingredients. The key sort of strategic realities that we need to keep in mind to understand, you know, what kind of diplomatic scenarios have been possible in the years since 1973, we need to keep in mind this achievement of Henry Kissinger of pulling Egypt out of confrontation with Israel and thereby, in his view, making the diplomacy more manageable. Right.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "60038bad-16ff-497c-94a2-8ce92662ce53"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this is something many of us have chewed on for a long time, right? How to evaluate Kissinger's diplomatic shuttle diplomacy and his efforts to, as you say, take Egypt out of what had been a coalition of anti Israeli states. One other point I thought I'd add for you to comment on, and then I know Zachary has a question too, is part of what he's also doing is making the United States the most powerful external actor in the region. He's sidelining the Soviet Union, which had been an ally of Egypt, right? And that, of course, has implications for the United States in the region, taking us all the way up to the Iraq war, correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "c3929a3c-55ae-4962-a367-623e38206103"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yes, absolutely. I mean, essentially what Camp David accomplishes, and this is often missed because it wasn't something that Jimmy Carter, I think, really was focusing on. I mean, he really, I think Carter genuinely was trying to make peace between Arabs and Israelis. But one byproduct of the Camp David Agreement is that, you know, Egypt is removed from confrontation with Israel. It enters into an alliance with Israel. I mean, with the United States, whereby it starts receiving nearly as much economic and other kinds of aid as Israel does for some years. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "39463a43-97dc-4577-8d60-916f2b033149"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's a huge strategic blow to the Soviet Union. And again, that gets masked because the Soviet Union in some ways is more visibly active in the region in the years thereafter. I mean, it really, you know, it flexes its muscles. It, you know, has all kinds of agreements and makes various diplomatic gains on the Arabian peninsula with its relationship with South Yemen and, you know, further to the East, it's invading and occupying Afghanistan. It's cementing its strategic alliance with Syria. It's doing all these things that are on the surface fairly menacing, but that masks the underlying diplomatic reality, which is that the Soviet Union has basically been frozen out of Arab Israeli diplomacy and becoming increasingly irrelevant to it. And then, of course, it's not too much longer after that, that the Soviet Union itself ceases to exist. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "65612568-8e41-4eb9-850f-c3b48ec2de95"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the United States, even though it had already been flexing its muscles pretty aggressively in the Middle East during the 1980s. And for that reason, I sometimes argue that, the cold war, the post cold war era began a decade earlier, a decade early in the Middle East. Nonetheless, by the time we get to the early nineties, it's unmistakable because the Soviet Union has ceased to exist. And the United States really is now the sole remaining superpower. And its ability to call the shots is made even more unmistakable by the victory in the first Gulf war of 1991."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "b466119a-72b4-4a4a-a07d-5f666d082a89"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. Right. Zachary. In this context of bilateral agreements, and a sort of cooling of the conflict during this period, why do these efforts fail to produce a Palestinian state and achieve a two state solution? Was that the point of these efforts or why do the sort of claims to statehood of the Palestinian people during this period fail to be represented at these, in these major agreements?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "d8f24625-b193-47ad-aa18-9a4ebc3aebb0"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's a great question. I mean, there are lots of different aspects to it. I mean, on one level, you can answer it by pointing out that the gap between, if we're talking first in the early 1970s and in the aftermath of the 1973 war, the gap between Palestinian aspirations and, reality was just unbridgeable. Now that gap narrows in the years ahead, because essentially what happens is the Palestinians. scale back their ambitions in ways that make them at least theoretically compatible with Israel's continued existence. So if, you know, in the early 1970s, the formal position of the Palestine Liberation Organization was the liberation of all of Palestine, essentially the dismantling of the Zionist state and the creation of the so called democratic state."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warfare and Scoiety"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "60fa76e0-c0d1-4b86-b0d8-c5b48d2765f8"
+    },
+    {
+      "start_time": 1667,
+      "end_time": 1711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes it's referred to as the secular democratic state, but usually the term secular was not attached to it. It was just, you know, the democratic state in which, at least on the surface, Arabs and Jews, you know, Muslims, Christians and Jews would all have equal rights. If you look closer at the proposal, you could see that it wasn't quite that because there were, there was this expectation that a large portion of the Jewish Israeli population would actually leave. And so it's really not, it's not a very serious proposal. But it's also not serious because it's just, there's just no way that it can be realized militarily."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "ebf5fefc-b490-4b36-a9b6-e241e870655c"
+    },
+    {
+      "start_time": 1711,
+      "end_time": 1775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, what you see happening over the subsequent years, you know, the years after 1973, is that the Palestinian movement, and in particular Yasser Arafat, who is the chairman of the PLO, they start inching towards a compromise where they, you know, the first there's all sorts of qualifications and disclaimers, but, essentially they're moving closer to accepting a Palestinian state in the West Bank and Gaza. And essentially, disavowing or at least setting aside their claims to the rest of Palestine. And over the years, this becomes increasingly explicit, you know, it becomes official in the late 1980s where the Palestinian, the PLO basically, you know, disavows its claims to the rest of Palestine and says that it is ready for a two state settlement, in which a Palestinian state will live alongside Israel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy and Peacebuilidng"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "fe30aeca-1f55-4030-b3f6-206aec1d6093"
+    },
+    {
+      "start_time": 1775,
+      "end_time": 1849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So because the Palestinians have scaled back their demands, have essentially become more realistic, the international community takes note of this and starts becoming more forceful about pushing this two state settlement. And that's one of the reasons why I believe the 1970s are such a pivotal decade is that it's really during that decade, especially the second half, that the scenario for a two state settlement comes into existence. Now, at first, neither Israel nor the United States embraced this idea. Carter comes pretty close to doing so. I mean, if he, didn't have to think about domestic politics and other, you know, diplomatic obstacles, I think Carter, you know, during his presidency, probably would have. You know, come out in favor of a two state settlement himself, but he lands somewhere short of that because of, the issue from his standpoint just isn't quite ripe yet. But in subsequent years, you get to the point where, you know, even the United States embraces the idea of a two state settlement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "cac651d4-3540-4369-ac67-17080503ca59"
+    },
+    {
+      "start_time": 1849,
+      "end_time": 1894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the Israelis are, I mean, they've talked about the desirability of that, but they're not, they haven't made the same kinds of official undertakings that would bring that into being. And of course, I mean, a major obstacle to that is the continuing colonization of the West Bank, where you do have Israeli settlers increasing their number at a rate and, you know, in various configurations that make a viable Palestinian state harder and harder to imagine, but nonetheless, you know, the idea of a two state settlement gets enshrined, not just in, you know, international politics, but in American diplomacy as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Structural Drivers of ConflictSalim Yaqub"
+        }
+      ],
+      "uuid": "7307a1aa-22d3-4a4f-acb7-9c624ed91b93"
+    },
+    {
+      "start_time": 1894,
+      "end_time": 1928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salim, the PLO, the Palestinian Palestinian Liberation Organization, which is the predecessor to the Palestinian organization led by Mahmoud Abbas today in the 1970s, it's often depicted at least within the United States, accurately or inaccurately as a terrorist organization. First of all, is that accurate? And how do we understand the intersection between concerns about terrorism, airplane hijackings, various other events, and the issues that you've laid out so well for us here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "8fb906a1-ca12-4232-b73b-9929d8b13790"
+    },
+    {
+      "start_time": 1928,
+      "end_time": 1959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I mean, the PLO back then and in subsequent years was a very broad based organization, essentially a confederation of many disparate parties, some of which were committed to acts of terrorism and, you know, some of which actually did commit some pretty gruesome terroristic acts in the 1970s as in subsequent years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "75000a85-a073-4bc6-819a-3ec52d10c9cd"
+    },
+    {
+      "start_time": 1959,
+      "end_time": 2038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The position of Yasser Arafat is somewhat ambiguous in that one gets the sense that he's not really crazy about this tendency and he would much prefer to see it ended, but he also feels limited in his ability to oppose some moves taken by Palestinians in the name of liberation, just because these movements have captured the imagination of Palestinian opinion, and to some extent have gained a certain cachet internationally, and there are also, you know, various, you know, more internecine disputes that he's navigating that, you know, from time to time, make it very difficult for him to stand in the way of groups like Black September. That's the organization that conducted the attack on the Munich Olympics in 1972 and similar groups. And sometimes he, you know, he goes further and actually pays lip service or, you know, praises groups that have not too long in the past committed acts of terrorism. So his position is definitely compromised. I mean, his hands are not clean in that respect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "4c114173-8523-459e-b0c4-9f3d6990e59d"
+    },
+    {
+      "start_time": 2038,
+      "end_time": 2066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that of course is a, you know, a terrible political obstacle that he faces. I mean, in one respect, it, you know, his ambiguous stance on terrorism allows him to keep the Palestinian movement united. But it also serves to blacken the name of the PLO and the Palestinian movement in the eyes of many outside observers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "223f2955-b415-4aa9-b18d-3dd8d29a2a1e"
+    },
+    {
+      "start_time": 2066,
+      "end_time": 2093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is it effective though, Salim? I mean, I'm guessing that leaders of Hamas would look back and say, that the more radical PLO of the early seventies, when, for instance, Yasser Arafat comes to the United Nations and displays a weapon in his holster. And, you know, that image of radicalism and violence was more effective at getting attention than the scaling back of ambitions, as you put it before."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "0ab42671-28db-4ff4-9041-2829ece5e97c"
+    },
+    {
+      "start_time": 2093,
+      "end_time": 2170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's really hard to say. I mean, my overall inclination is to be, you know, very strongly opposed to the use of violence, especially terrorist violence, as a, you know, that's of course a more like a normative or moral stand. You know, when it comes to looking at it analytically and trying to assess, you know, in as detached a way as possible, you know, to what extent this move towards violence or these moves towards violence helped to put the Palestinian issue on the map I think there definitely there is a sense in which that kind of activity drew attention to the Palestinian cause and gave it a kind of visibility and stature that it might not otherwise have gained. But at the same time, it's also, as I said, blackened the name of the movement. So I would, I guess, you know, if I had my druthers and if I could wave a wand and change history, none of this, of these at least none of the really heinous forms of violence would have taken place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "db22b64e-a504-4dc4-b227-0d17f02b6f13"
+    },
+    {
+      "start_time": 2170,
+      "end_time": 2218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, obviously resisting occupation, you know, when you're confronting armed occupiers, that's a whole different ball game. So I would, I definitely, I very much regret that this move towards violence has occurred and has been embraced by so many. And of course, you know, even to, especially today, seeing, you know, what it's leading to makes me all the more firm in that conviction now, even today, though, there you're going to get arguments and they won't necessarily be completely off base that the October 7th attacks revived the Palestinian issue in a way that perhaps few other events could have done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "d2e50024-7d22-4217-8aa3-66d30eb3ca63"
+    },
+    {
+      "start_time": 2218,
+      "end_time": 2270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, because if you think about where things were, just, you know, in the weeks and days leading up to the attack with, Jake Sullivan, you know, kind of gloating that, oh, we've got the Middle East under control. Now we're moving towards normalization between Israel and its Arab neighbors and Arab countries further afield like Saudi Arabia. And the implication of all of that was, We're not going to be so hung up on the Palestinian issue that, you know, the Arab states will make peace with Israel and they will not condition their willingness to make peace on serious movement on the Palestine issue. I mean, there may be some fig leaf that they demand, but seriously, you know, fundamentally, they're not letting the Palestine issue stand in their way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "dd2810d5-ebf7-4a5a-a3a5-4f0d395fc22f"
+    },
+    {
+      "start_time": 2270,
+      "end_time": 2339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there was the scenario that was coming into view of Israel normalizing relations with a whole bunch of Arab countries, especially very prosperous ones, developing all kinds of lucrative trade relations and joint ventures, you know, with these wealthy Arab states and essentially being able to continue colonizing the West Bank. And, you know, I was very depressed by that scenario. I didn't see any way of breaking out of it. Now I am utterly aghast at what's happened on October 7th. And I don't by any means favor breaking out of the impasse by those means, but that is what has happened. And the Palestine issue is on the map and on the diplomatic agenda in ways that it wasn't two months ago. So, you know, so that's the kind of logic that people will invoke. To make the case that there is a place for this kind of violence, even though I very firmly reject that argument. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "639d93da-c579-4d34-929d-1896381a6814"
+    },
+    {
+      "start_time": 2339,
+      "end_time": 2348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I appreciate, Salim, the care and thoughtfulness in the way you said that, and I think it's a very reasonable position you've adopted. Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "9ead55f1-61a8-41ab-885a-8bbe59d60b40"
+    },
+    {
+      "start_time": 2348,
+      "end_time": 2378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How should we understand the legacy of these sort of failed, but also to a certain extent successful peace agreements in the 1970s, and then also, of course, the war in '73, the developments that we've been discussing, how should we understand the legacies of these events today? I'm thinking in particular, of their legacy, in regards to the creation of Hamas and the situation pre-October 7th, which precipitated the current conflict."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "972f682c-98c8-4647-b955-d0247e851002"
+    },
+    {
+      "start_time": 2378,
+      "end_time": 2438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's a really, uh, good question. A difficult one, but a good one. I mean, the way I think about what was achieved in the 1970s is that it, there's a scenario in which the moves towards greater cooperation between, let's say, Egypt and Israel, in that decade, could have led to broader peace settlements, but they did not. And essentially, that was what I think Jimmy Carter, and I think it was what, Anwar Sadat hoped for, but in a curious way. Anwar Sadat ultimately proved less adamant about linking peace with Israel between, you know, a bilateral peace between Egypt and Israel to a broader set of agreements between Israel and its other Arab neighbors, and especially, some arrangement for the Palestinians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "d94f4d26-ed4d-44b0-9b2c-86a29651d2a5"
+    },
+    {
+      "start_time": 2438,
+      "end_time": 2501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there was kind of this. curious situation where Jimmy Carter, you know, he really wanted the bilateral agreement that he was brokering between Egypt and Israel to be a stepping stone to broader agreements between Israel and other Arab countries and between Israel and the Palestinians. But because of the kind of agreement that Carter was ultimately obliged to accept and because I know, frankly, the very hard line and determined stance that Menachem Begin, the Israeli prime minister at the time took. And because of, you know, Carter had other issues on his plate that were becoming more pressing, especially the Iranian revolution. You have to think, you just, when you think about the chronology, you really get a sense of how these issues fit together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "317af905-9137-4251-b186-e5bf27123ede"
+    },
+    {
+      "start_time": 2501,
+      "end_time": 2559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the Camp David Agreement, the first agreement, the one you actually forged at Camp David, was in September 1978. The Iranian Revolution erupts in the weeks and months right after that. By the time the actual formal agreement, the peace treaty between Egypt and Israel that was kind of blocked out in general terms at Camp David is achieved. That's March 1979. So that's a couple months after the Shah has fled and the new Islamist government has taken over in Iran. And you know, it's not too long after that, that the American hostages in Tehran get taken. So Carter's attention is increasingly sucked into this black hole of misery that, you know, ultimately, you know, arguably ends his presidency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "cd426011-e7e3-4f16-8cab-72556385aafc"
+    },
+    {
+      "start_time": 2559,
+      "end_time": 2602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you know, Carter really wasn't in a position to build on the peace agreement that he had brokered at Camp David in, in the way that he hoped. And in fact, there's some poignant statements by Carter, private statements that he makes around this time and, you know, the summer of 1979 or so where he says, wow, you know, if I end up leaving office without really making a dent in the Palestinian issue, people will rightly say that I was a failure. And, you know, sadly, that was his legacy. At least as far as the Israel Palestine issue is concerned."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "3c21c327-82c8-4552-bed2-fe622a1ec0de"
+    },
+    {
+      "start_time": 2602,
+      "end_time": 2627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salim, it strikes me that one of the legacies that's unavoidable is the continued lack of Palestinian statehood, that the two state solution that you described so well doesn't come into being. And looking back over this period over the 1970s, one might have thought that things might have gone that way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "81d6f44c-1031-4382-91d7-aa30a633c706"
+    },
+    {
+      "start_time": 2627,
+      "end_time": 2656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Arab states, as you say, in 1973 are united and they show that they are not as weak as they had been in 67. The Saudis and the other oil rich states are able to use oil as a weapon in many ways to bring down the American economy or to cause enormous pain in the United States, both at the beginning of the 1970s period, and then also at the end of the decade. So there's rising Arab power."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "758f0360-bb71-4dae-877d-35f5de22fae4"
+    },
+    {
+      "start_time": 2656,
+      "end_time": 2673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Israel also seems to recognize, as you said, that it has to make some kind of deal with its neighbors. So why do the Palestinians continue to be victimized? Why is that one of the overriding legacies from this period? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "c06c20d1-7402-43f3-a47c-a2525486cd15"
+    },
+    {
+      "start_time": 2673,
+      "end_time": 2717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I mean, there are lots of complexities to that question, but you can also answer it in a very simple way. Which is, I would say, because of the Camp David Agreement. It pulled Egypt out of confrontation for good. I mean, Egypt was already drifting away from its prior commitments to the other Arab countries, but it, you know, it formalized it. It formalized Egypt's removal from the conflict, you know, transformed Egypt into an ally of the United States, and that really did make it a lot easier for Israel to withstand international calls for some kind of accommodation with the Palestinians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "5f72765a-e2e6-45ab-bb50-9441aeaaac78"
+    },
+    {
+      "start_time": 2717,
+      "end_time": 2755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And again, you've got, you know, I was just talking about poignant statements by Carter. There's another one that he makes in 1985, in a book that he wrote called The Blood of Abraham. Mm-Hmm. in which he very starkly and in a kind of self-incriminating way, says that. What the Camp David Agreement did was subtract Egyptian power from the Arab Israeli equation, and that made it easier for Israel to continue dominating its neighbors and continuing to occupy the West Bank. He just says that very starkly. And I think that's true."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "4358cf87-93e3-48a9-ad77-ecd37d051d1d"
+    },
+    {
+      "start_time": 2755,
+      "end_time": 2819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are, you can go a little bit further into the 20th century and look, for example, at the Oslo peace process, where there was kind of a second chance that the parties had to really come to grips with the Israel Palestine dispute. And you do have, I mean, a major transformation occurs in the sense that the United States recognizes the Palestine Liberation Organization. The Israelis, you know, get into dialogue with the PLO and with Yasser Arafat, you have, you actually do have the, you know, establishment of the Palestinian Authority. So there is some, there's like a physical presence. There's a, like a beachhead that the Palestinian movement is able to establish in both the West Bank and Gaza. And it, at least on the surface, it appears that there's an opportunity to build on that nucleus and transform it into a two state settlement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "7bd8e218-25a8-4d66-aea8-a7e1899a9620"
+    },
+    {
+      "start_time": 2819,
+      "end_time": 2847,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But what happens is that the Israelis are able to continue expanding Jewish settlements in the West Bank and the way the agreements are drafted are such that, you know, the Israelis are able to invoke certain loopholes and the Palestinians complain, but they don't have sufficient leverage with the United States to get the Americans to take that seriously. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "cce1e90d-f115-4b6d-8f23-e352beaf56a4"
+    },
+    {
+      "start_time": 2847,
+      "end_time": 2879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course that gets complicated by the fact that you do have Palestinian militants who reject the Oslo Accords and try to sabotage them by engaging in increasingly grisly terrorist attacks against not just settlers in the West Bank, but, you know, against civilians inside Israel, and that of course gives Israel justification to conduct, you know, massive retaliatory raids against the Palestinians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "7dfffbd0-d381-4ee1-b53a-1e6eccdc87f5"
+    },
+    {
+      "start_time": 2879,
+      "end_time": 2931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so essentially what happens is the, you know, the settler population during the very decade in which the Oslo peace process is unfolding doubles. And so that, you know, from the standpoint of ordinary Palestinians, this is really antithetical to any notion that a two state settlement is on the horizon. And because, you know, the way in which the Palestinians react against this creeping annexation often takes violent forms, the Israelis respond in, you know, with their own forms of violence and the, you know, you get this kind of vicious cycle where each side becomes more and more entrenched in its rejection of the other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warfare and Scoiety"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "8d200f9b-942d-4870-bc7c-1458bbff7dfb"
+    },
+    {
+      "start_time": 2931,
+      "end_time": 2957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I, you know, these issues are never simple, but, I do wish that the Clinton administration had come to grips with this settlements issue in a much more serious and thorough going way. When it had the opportunity to do so, because the, I think the consequences of that failure are very much with us today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "58a3a66b-6d8c-44f6-9308-ca5b1766c33b"
+    },
+    {
+      "start_time": 2957,
+      "end_time": 2997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. Just one follow up question on this, because I think your explanation is so thoughtful and balanced. So many Israelis that you and I know, and Zachary knows, and others know want peace. Why, in your narrative, has it been so hard for Israel to pursue peace? In your narrative, in your description, Israel is in some ways using its alliance with Egypt to avoid hard decisions with the Palestinians. Why do you think that's the case?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "8e9b46aa-5556-42da-92f5-2d2c31a667a1"
+    },
+    {
+      "start_time": 2997,
+      "end_time": 3016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, because it's also using its alliance with the United States to avoid hard decisions regarding the Palestinians. And this is something that I think the United States really bears some responsibility for and needs to correct if we're going to see any serious movement on this issue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "4bfcf9dc-188c-4088-8036-827c4db90282"
+    },
+    {
+      "start_time": 3016,
+      "end_time": 3054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I think it's understandable that within the context of Israeli politics, you see a move to the right, you know, over the last couple of decades, and that it's politically very difficult for groups or politicians advocating compromise with the Palestinians to gain popular support, just because it's so easy to point to acts of really horrific violence coming from the Palestinian side and to make the case that there is no suitable partner for the Israelis to make peace with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warfare and Society}Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "40116932-b89f-43ba-aed8-a62260e6b4ab"
+    },
+    {
+      "start_time": 3054,
+      "end_time": 3115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think, I mean, again, these are very complicated issues and I don't, you know, want to sound, you know, glib you'd just be sitting back and pontificating and saying that it's easy to reverse course or change the direction. Nonetheless, I think fundamentally what needs to happen is for the United States to start to become a lot firmer with the Israelis and to set clearer limits on what the United States will tolerate. In that context, that would, in my view, create political space for forces within Israel that wish to take a more conciliatory stance towards the Paelstinians. Because essentially the only limits against which Israel is brushing up, the only limits it encounters are the limits imposed by its immediate adversaries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "a90ade6f-7f71-4df7-b259-5a9636039bee"
+    },
+    {
+      "start_time": 3115,
+      "end_time": 3214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There aren't really significant diplomatic constraints or other kinds of constraints being imposed by the United States. I'll give you an example of an instance where that occurred and was promising and, you know, make the case that that kind of thing needs to happen again. Back in the early 90s, there, when Yitzhak Shamir was the prime minister, you know, he wanted a loan guarantee from the First Bush administration, and President Bush refused to extend that guarantee or refused to sign off on it, unless he could get a commitment from Shamir that there would be a cessation of settlement building in the occupied territories. This created a huge diplomatic crisis between the United States and Israel, and there was enormous pressure on Bush to back down. And he didn't. He stuck to his guns and eventually that resulted in a change of government inside Israel because figures on the more dovish labor side were able to say, look, this is what happens when we follow the approach of Likud and figures like Shamir. We get into a confrontation with the one country whose help we cannot afford to lose. So if you follow our approach, the more dovish Labor Party approach, we will restore our good relationship with the United States, and that will be better for Israel's security."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "7c72caf7-00c9-47cc-948c-87282a12cde6"
+    },
+    {
+      "start_time": 3214,
+      "end_time": 3249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that worked, and it resulted in the election of Yitzhak Rabin in place of Shamir. Now, there are ways in which Bush subsequently dropped the ball that caused the victory that he had achieved on the settlements issue to be a Pyrrhic one, which I can go into if you wish, but I don't think that's important. But what it shows is the ability of the United States, if it flexes some diplomatic muscle, to affect change inside Israel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "3d50114e-f562-4207-b5b3-e6d4bffa5bbd"
+    },
+    {
+      "start_time": 3249,
+      "end_time": 3285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think in the, when those sorts of things start to happen on the Israeli side, I think that also empowers Moderate forces on the Palestinian side in situations like the one we're in now with situations of polarization that tends to strengthen hardliners on each side. I mean, it's more complicated in Israel now because Netanyahu was so unbelievably unpopular but in absent those complicating political issues, the general dynamic is one in which the more polarization, the more violence you get. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "f5076a95-9f8e-4e6a-af97-60c5a47d351c"
+    },
+    {
+      "start_time": 3285,
+      "end_time": 3325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The stronger hardliners on each side become. So I think in a situation in which the United States is exercising greater leverage that's nudging the Israelis toward a more conciliatory position, that will make it easier for moderate form of forces on the Palestinian side to assert themselves. And this certainly won't happen overnight, but I think you could start a process that ultimately results in the political, diminution of Hamas. I mean, we're far from that now, but we, that's where we need to start heading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy and PEacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "7d1688b8-3d02-4280-9f8b-7db60f501bf7"
+    },
+    {
+      "start_time": 3325,
+      "end_time": 3333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. Which is the opposite of full scale siege warfare in Gaza. Exactly. Exactly"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1f710666-923b-496a-aaba-ff0f228cf1f0"
+    },
+    {
+      "start_time": 3333,
+      "end_time": 3376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary, I want to turn to you now. Salim has given us a tour de force here. He's in 30 to 5 minutes, 40 minutes, he's provided a really thoughtful, balanced, rigorous overview of an entire decade and its legacies for today, many of its legacies for today. And I know you have been deeply involved in debates about these policy issues on campus with other students. We discussed this in our prior episode. How do you react to Salim's historical framing for what you're debating today among students and others regarding this region of the world?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "112a490a-b76b-4a6d-99a6-4393d37a49dc"
+    },
+    {
+      "start_time": 3376,
+      "end_time": 3423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's very helpful, certainly, in pointing to places, lost opportunities, and hopefully, lays out a series of of mistakes that that cannot be made again. I worry, though, about the, I think that maybe one of the things it points to as well is a sort of dilemma that sort of maybe contradictory forces that are shaping the problem today, which is that in order for there to be a sort of viable, moderate Palestinian force with which Israel can make peace, there has to be a moderate sort of political force in Israel willing to make peace."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "edb8267b-52da-4e30-aab5-f85beef3bf40"
+    },
+    {
+      "start_time": 3423,
+      "end_time": 3468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But in order for that to occur, there has to be a sort of cessation of radical Palestinian violence that enables those on the far right in Israel. And so, and I think, one of the key lessons that at least I will take from Professor Yaqub's, very, Yaqub's very helpful analysis and history for us is the importance of the role of the United States in maybe catalyzing that process in, at the very least, putting our thumb on the scales to sort of break out of that cycle and of that, sort of constant, sort of lost opportunity, if you will."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "56e7faa0-1636-46e4-b822-b3fe6987ef29"
+    },
+    {
+      "start_time": 3468,
+      "end_time": 3508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, no, I think one of the real strengths, one of the many strengths of Salim's account and his scholarship is that it doesn't make the United States all powerful, far from it, but it does show how the United States might be the one actor that can play a role at certain moments in bringing the different sides together or pushing them apart. I think there, Salim's account gives us evidence of both of those things. As a final word, Salim, if you had a few seconds with President Biden, then what would you say as a historian that he should be thinking about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "578f24e8-9359-4c59-852e-7dbf8d1b662d"
+    },
+    {
+      "start_time": 3508,
+      "end_time": 3586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I mean, I think it would be the point that I made most recently, just about the need to show some greater firmness and to really attend to the details, particularly regarding what's happening on the West bank. I think, you know, one, when I said that George H. W. Bush eventually dropped the ball. He allowed the, you know, the next president, Yitzhak Rabin, to essentially use a form of words to get around the settlement issue. What Yitzhak Rabin said was, you're right, President Bush, there should be no more additional Jewish settlements in the West Bank. I will seize the building of new settlements. But what he then promptly did was start expanding existing settlements. And, you know, Bush accepted that distinction. But, you know, from the standpoint of the Palestinians, it really was not a difference at all. So I would say that you just, you need to pay really close attention to the details of what's taking place and, you know, to think about their impact on all of the parties to this dispute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "8268ad5f-b5f4-44f4-9e18-573ee5a044d0"
+    },
+    {
+      "start_time": 3586,
+      "end_time": 3629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think Salim, that's a perfect place for us to not really close, but sort of, no, but bring this discussion to a point. I think what your scholarship displays and what you have provided today are two lessons for us above all. You know, one is that close attention to the history really matters. The events that we're living with today, reflect long developing, many long developing historical trajectories, and we can't really understand them. And we certainly shouldn't take sides before we understand this history. We have to pause and spend some time to look at where we've come from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "4f23110a-473b-4ab6-9355-504ecd07e3d2"
+    },
+    {
+      "start_time": 3629,
+      "end_time": 3689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that second to that one can speak for the interests, as I think you have, the historical interests of Palestinians, without in any way embracing the most extreme forms of violence, which you have clearly renounced and also argued are ineffective, in fact. And, I think that's really important. One doesn't have to give up on the Palestinian cause or the Israeli cause because the more extreme voices and extreme actors are the ones that are getting the most attention. Absolutely. So, Salim, thank you for educating us, for providing us a really valuable and missing background for most of our discussions. I hope our listeners will take what you say, read more, and think deeply before they jump to conclusions one way or another in this conflict. Salim, it's really been a pleasure and an honor to have you on our podcast. Thank you for joining us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "b384f7b7-46f6-45ad-af4e-fe56d21bedb4"
+    },
+    {
+      "start_time": 3689,
+      "end_time": 3693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi and Zachary. Thank you so much. It was wonderful to have this conversation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Salim Yaqub"
+        }
+      ],
+      "uuid": "4b804760-38fc-40b4-abd2-5582b022f04a"
+    },
+    {
+      "start_time": 3693,
+      "end_time": 3707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Zachary, thank you for your poem that I think resonates with some of the themes and thank you for your questions and thank you most of all to our loyal listeners for joining us for this week of this is democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "90f76bb5-8f9d-4d55-be45-2a46a4c19a55"
+    },
+    {
+      "start_time": 3707,
+      "end_time": 3741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the liberal arts ITS development studio. And the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Jerez Codini. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and Stitcher. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "86b08b55-86ca-4bb1-bc79-81a3879f41d8"
+    }
+  ],
   "set": "Default",
   "event_id": "8741d248-62d8-43b2-b5a7-e284c97a6d14",
   "source_id": "f0cc7eb8-ee62-4a01-8458-865001481575"
