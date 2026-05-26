@@ -1,0 +1,65 @@
+{
+  "audiovisual_files": {
+    "d6d0f988-a295-4edd-966c-78edb0288b6d": {
+      "label": "Episode 247: Strikes by Autoworkers",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2023/10/2023-10-06_This-Is-Democracy_master.mp3",
+      "duration": 2041,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This week, Jeremi and Zachary are joined by Dr. William Jones to discuss the history of labor unions and the current ongoing strike by the United Auto Workers union."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zachary sets the scene with his poem entitled, “From The UAW Picket Line”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "William Jones is a professor of history at the University of Minnesota, where he is a leading scholar of workers, unions, and race in the United States. Prof. Jones is the author of: The Tribe of Black Ulysses: African American Lumber Workers in the Jim Crow South (2005) and The March on Washington: Jobs, Freedom and the Forgotten History of Civil Rights (2013)."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Episode 247: Strikes by Autoworkers",
+  "av_file_order": [
+    "d6d0f988-a295-4edd-966c-78edb0288b6d"
+  ],
+  "created_at": "2026-05-26T23:07:54.637Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-05-26T23:07:54.637Z",
+  "updated_by": "raymondhyser"
+}
