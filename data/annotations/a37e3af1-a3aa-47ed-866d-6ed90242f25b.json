@@ -1,1 +1,2107 @@
-{"annotations":[{"start_time":0,"end_time":24,"annotation":[{"type":"paragraph","children":[{"text":"This is Democracy. A podcast about the people of the United States. A podcast about citizenship. About engaging with politics and the world around you. A podcast about educating yourself on today's important issues. And how to have a voice in what happens next."}]}],"tags":[{"tag":"Intro","category":"Framing Elements"}],"uuid":"282112a3-d63b-4350-a52a-da74a27f877e"},{"start_time":24,"end_time":67,"annotation":[{"type":"paragraph","children":[{"text":"Welcome to our new episode of This Is Democracy. This week we're going to discuss a term that is thrown around almost every day in newspapers and political discussion, but a term that is rarely defined or historicized, and that term is free trade. The United States calls itself a free trade nation. Whether that's true or not is something we'll discuss, but more significantly we'll discuss what free trade really means, and how a group of thinkers, pioneering thinkers and political activists and policy makers in the 19th century pioneered a new way of pursuing free trade with certain ideals of peace attached to it."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"7716359a-9db0-4611-a351-1463fba6e113"},{"start_time":67,"end_time":132,"annotation":[{"type":"paragraph","children":[{"text":"We'll understand and talk about what it was that they meant and what it means for us today as we understand our own world. We're fortunate to be joined by a friend and really wonderful scholar, Marc Palen. Marc is a historian at the University of Exeter, and his new book that we're going to talk about is called Pax Economica: Left Wing Visions of a Free Trade World.  It was just published in early 2024 by Princeton University Press. It's already been featured in the New Yorker magazine, one of my favorite magazines, as one of the best new books out in the last year. Marc has written on this topic before, his dissertation that he wrote at the University of Texas at Austin. And his first book is called The \"Conspiracy\" of Free Trade: The Anglo-American Struggle for Empire and Economic Globalization. Marc also writes frequently for major newspapers and magazine, including Le Monde in France, Time Magazine, the Washington Post, New York Times, and the Australian Eye. So he covers at least three continents, if not more, in his writing."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Universities"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"f7ee96fc-0672-4f1e-8ac4-3002abc182c5"},{"start_time":132,"end_time":144,"annotation":[{"type":"paragraph","children":[{"text":"And as I, as I said before, Marc has a connection to the University of Texas. He was a graduate student here. And so we're very proud of the work that he's done. Marc, thanks so much for joining us today."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Universities"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"6fb269e4-175c-473a-b109-d58df169b8fa"},{"start_time":144,"end_time":147,"annotation":[{"type":"paragraph","children":[{"text":"Thank you so much for having me. Much appreciated. "}]}],"tags":[{"category":"Speakers","tag":"Marc Palen"}],"uuid":"dfa66e31-21e1-4efd-a33a-22e7a5034704"},{"start_time":147,"end_time":165,"annotation":[{"type":"paragraph","children":[{"text":"I'm really looking forward to this discussion. Before we get into our discussion of Marc's book and free trade, we have, of course, Mr. Zachary's scene setting poem. Zachary, what's the title of your poem today? A World at Sail. A World at Sail. Okay, well, let's sail into it."}]}],"tags":[{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"3d577119-0c9a-4126-a84c-73b801d7ea65"},{"start_time":165,"end_time":196,"annotation":[{"type":"paragraph","children":[{"text":"Sometimes I am awakened in the middle of the night by the fear my imaginings won't turn out right. I toss and turn and think of nothing more than a coffee in the morning and the rain that starts to pour. Sometimes I am startled at the way the earth can turn, yet everything is standing still as ashes in an urn. I watch the time that passes by and wonder at its speed, knowing each who dies was but a planted seed."}]}],"tags":[{"tag":"Zachary Suri","category":"Speakers"}],"uuid":"ea79f81c-8429-4764-a5d9-ca5572ff953b"},{"start_time":196,"end_time":247,"annotation":[{"type":"paragraph","children":[{"text":"Sometimes when the sun is setting, I wonder if a hope is nothing more than mud to scrub away with soap. I watch the darkness coming with its ominous smile, and the birds no longer humming are erased in single file. And yet each morning when it comes at last, I see a new world rising and it's rising fast. A world of peace that isn't stale, a world at sea, a world at sail. We are chasing Earth's still spinning tail, like birds who sing at every dawn. The hate has flown, the fear is gone, I spy your ports, you spot my shores, you sell my treasures in your stores. Each setting sun is now a kind of hoping that tomorrow will be in the harbours roping."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"tag":"Zachary Suri","category":"Speakers"}],"uuid":"1ecd5241-cb16-4621-9b07-ce420cf13a1a"},{"start_time":247,"end_time":257,"annotation":[{"type":"paragraph","children":[{"text":"I love the imagery, Zachary, and I love the evocations of peace and peacemaking. What is your poem about?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"d3f00530-9691-4c51-8774-4a24ccbff245"},{"start_time":257,"end_time":290,"annotation":[{"type":"paragraph","children":[{"text":"My poem is about the ways in which, even in the points in our lives, and in our politics when we are the most cynical. That trade, and sort of physical connection across the vast seas of the world, can offer a real opportunity for peace and real hope, even when things seem sort of impossible abysmal around us. Right."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"tag":"Zachary Suri","category":"Speakers"}],"uuid":"e796ac15-c245-4ad9-bdff-64562c1e41d6"},{"start_time":290,"end_time":321,"annotation":[{"type":"paragraph","children":[{"text":"Marc. I think that's a great place to really dive into your book. So much of your book, especially the first 2 to 3 chapters is about the efforts of certain activists, seems to me, to escape what they see is the imperialism and economic nationalism and cruelty of of the 19th century of the world of empire that we all know a fair amount about. Why did these activists, Richard Cobden is one of them who stands out, why did they turn to free trade as a source of peace and anti imperialism, as you call it?"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"e804c719-264a-4c98-9556-189c2a8ef5fc"},{"start_time":321,"end_time":362,"annotation":[{"type":"paragraph","children":[{"text":"I mean, this is, you know, it gets this sort of Enlightenment era ideas that this is building off of, but it's also, I think, building off of something new that's developing in the mid 19th century was, which is, a truly global economic system in a, in ways that we, you know, understand it today and global food systems and so forth. And pushing back against the mercantilist system that had dominated the imperial order up until the mid 19th century, a mercantilist system of protectionism, of closed imperial markets and seemingly constant war, and geopolitical conflict. "}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"cdd51ee3-fbf7-4093-95d8-03e197b9e816"},{"start_time":362,"end_time":411,"annotation":[{"type":"paragraph","children":[{"text":"And so when this free trade movement that Richard Cobden in Britain spearheads, this middle class pressure group, the anti corn law league, it's beyond just lowering Britain's trade walls and allowing for cheap goods and cheap food to flow in. He actually sees this direct connection between those domestic reforms and reforming the international order. Something that if we, I guess in international relations scholarship, we would think we call capitalist peace theory or interdependence theory, the idea that the more countries trade with one another, the less likely they are to go to war. This is kind of when this is really starting to take root, at the left of center into the political spectrum in remarkable ways. And so yeah, go ahead."}]}],"tags":[{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"7e18722a-17ac-497f-848c-9e1bfed08adc"},{"start_time":411,"end_time":456,"annotation":[{"type":"paragraph","children":[{"text":"Yeah. And it's striking to me in your book that, and it's in your subtitle, right? These are left wing visions. These are progressive, self defined progressives in many ways. The figures who you include go from Richard Cobden to Jane Addams, Norman Angle, so many of these people we associate with progressive anti war, anti imperial stands. Many listeners today, though, might think about free trade as benefiting large corporations and benefiting the rich, allowing the rich to get richer. We think about that with the movement of capital and investments and hedge funds and things like that today. Obviously, your progressive figures have a different vision of what free trade is about. How do they connect it, as you describe in the book, to domestic reform?"}]}],"tags":[{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"category":"Social and Economic Forces","tag":"Inequality"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"0f84d942-9984-479b-ae0e-bfcd531f9e1e"},{"start_time":456,"end_time":507,"annotation":[{"type":"paragraph","children":[{"text":"Yeah, great point. And I mean, yeah, this does, you know, challenge in a certain sense, associations that we commonly have now, the champions of the free market as right wing in their leanings. And, so yeah, this is about how those left of center, the anti imperialist, the peace activists, the abolitionists, the women's suffragists, so many of these things that we would think of left of center politically, even now, were coming together in really remarkable ways from the 1840s onwards. And one of the ways they were doing it is, you have to understand that kind of the way that the global order was still essentially being run, who were the people in charge? In the context of mid 19th century Britain, for example, this is an era in which the aristocratic elites still are running the show."}]}],"tags":[{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"category":"Social and Economic Forces","tag":"Inequality"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"60788edb-6a63-4f1d-a55d-21a8e5b7d376"},{"start_time":507,"end_time":532,"annotation":[{"type":"paragraph","children":[{"text":"And who are the aristocratic elites? They are the landed elites. They are the ones who are making all the money off of these protective tariffs on foreign grain, even though it means people in these industrializing cities in Britain are starving. And so it, by going after the economic power of landed elites, you can then, minimize their power politically as well."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Inequality"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"637c5361-5ea5-470e-b3ef-d11c9cc63e5a"},{"start_time":532,"end_time":563,"annotation":[{"type":"paragraph","children":[{"text":"And this allows for greater democratization. It also means that if you democratize foreign policy and you minimize the power of these militant aristocratic elites on foreign policymaking, then you can create a more peaceful foreign policy system that doesn't require large standing armies and navies, which means you can lower taxes and thus, make things even more affordable to a mass majority of people. So that's the kind of in a nutshell, how they connect that domestic element with the foreign policy."}]}],"tags":[{"category":"Origins, Development and Historical Change","tag":"Democratic Development"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"c5d03127-da58-4ca5-abf3-7cdfa06280b4"},{"start_time":563,"end_time":579,"annotation":[{"type":"paragraph","children":[{"text":"Gotcha. Zachary? And how did this movement for free trade, the successful movement for free trade, in England, how did it change politics? Did it make political institutions more egalitarian in the direction that these groups hoped?"}]}],"tags":[{"category":"Origins, Development and Historical Change","tag":"Democratic Development"},{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"tag":"Zachary Suri","category":"Speakers"}],"uuid":"929b87e1-ffba-4bd4-824f-826583d42b7d"},{"start_time":579,"end_time":599,"annotation":[{"type":"paragraph","children":[{"text":"Oh, that's an interesting one. Yeah. I, to an extent, yes. I mean, male franchise, certainly, you know, universal male franchise certainly was something that became more viable after this. It also was closely associated with what would become first wave feminism, this desire for women's suffrage."}]}],"tags":[{"category":"Origins, Development and Historical Change","tag":"Democratic Development"},{"category":"Rights, Membership and Public Participation","tag":"Voting and Elections"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"824f57c6-70b4-43e9-9e5c-2c01292abc37"},{"start_time":599,"end_time":647,"annotation":[{"type":"paragraph","children":[{"text":"There's actually some really interesting figures that are, what we might not consider first wave feminists who are working within this free trade movement in Britain, who are also connecting this with, expanding women's rights to vote and equality for women. You can even see this within the abolitionist movement, which in many ways is seen as sort of the flip side of the free trade coin at this time. Freeing men and freeing trade, seeing as kind of mutually reinforcing. So you have the Garrisonian Abolitionists, as they were called, the really radical wing of the abolitionist movement that William Lloyd Garrison of Boston was leading, that was trying to allow more women's voices into the abolitionist movement. And of course, he's also a free trader, during this time, becomes associated with this, what they call a Cognite moment"}]}],"tags":[{"category":"Rights, Membership and Public Participation","tag":"Voting and Elections"},{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"category":"Rights, Membership and Public Participation","tag":"Citizenship and Belonging"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"5a71796a-efbc-42e4-ba66-b48f2d660b1b"},{"start_time":647,"end_time":678,"annotation":[{"type":"paragraph","children":[{"text":"And so if you think about that in the short term, in the near term, you see the kind of greater enfranchisement, you do see something of a greater empowerment of the liberal party in these reforms that they're undertaking in Britain happening. And then if you take a longer view and thinking about how, you know, 50, 60 years later, this is going to culminate in women's suffrage as well. And in many ways, these two, as I try to show in the book, these two movements kind of work in tandem throughout most of these decades, that you can see that connection there, I think."}]}],"tags":[{"category":"Rights, Membership and Public Participation","tag":"Voting and Elections"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"0e47c96b-2a76-4ef1-aa97-93aa251cb581"},{"start_time":678,"end_time":702,"annotation":[{"type":"paragraph","children":[{"text":"One of the striking elements of your book to me, and this also echoes a point you made in your prior book. So it's one of the Palen contributions to understanding these issues, is that the United States, for all of its claims about free trade, was not a free trading nation in the late 19th and early 20th century, and in some ways was the enemy of these free traders. Can you say more about that, Marc?"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"c50774f5-7bc6-4c46-8059-9c7088b30c45"},{"start_time":702,"end_time":724,"annotation":[{"type":"paragraph","children":[{"text":"Yeah, and it's really mainly the Republican Party. So the Republican Party, when it's founded in the 1850s, it is, of course, the party of anti slavery. But once slavery officially comes to an end at least and, with the end of the civil war, 1865, the Republican party refashioned itself as the party of protectionism."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"02e23e59-5418-48c3-a9fb-0df057566f0b"},{"start_time":724,"end_time":761,"annotation":[{"type":"paragraph","children":[{"text":"And so with their dominance of American politics throughout most of the decades that follow up, until the election of Franklin Delano Roosevelt, you have this republican style protectionist policy. It's a very anglophobic one. Fear, hatred of the British is a common political tact that's taken to reinforce these protectionist demands, but it's also, you know, the American industries were certainly less developed than those of the British, and so they saw this as a way to catch up to and rival, the more industrially advanced British, who had recently adopted free trade."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"2ed9c781-6038-4488-b14c-d8cd97ca6c33"},{"start_time":761,"end_time":810,"annotation":[{"type":"paragraph","children":[{"text":"So this seemed like a nice counterbalance to it, and also led to all sorts of geopolitical conflicts with America's neighbors, especially the British colony to the north, Canada. And then when the United States becomes a proper, formal empire in its own right under Republican auspices in 1898 after the Spanish American war, it's a protectionist economic nationalist empire that comes into being here that the Republicans oversee. And, you know, pushing back against that common understanding that we, I think we tend to make of this late 19th, early 20th century, those decades leading up to the first world war as some sort of Gilded Age era of free markets and laissez faire run amok. One of the things I've been trying to push back against is to say that, that's actually, it was quite the opposite."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Origins, Development and Historical Change","tag":"Democratic Development"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"c2c5dd0e-22d1-4d64-afbb-adf60d9ff395"},{"start_time":810,"end_time":839,"annotation":[{"type":"paragraph","children":[{"text":"And this is exactly how these left wing free traders saw the world system, as a world system dominated by empires who lean towards economic nationalism, at home and abroad. And I think without understanding that protectionist makeup of the American people, American empire, as well as other rival empires, like the French, the Russians, the Italians, the Ottomans, the Japanese, and so forth, that you get, it really would be impossible to understand why this broad left wing internationalist subscription to free trade existed."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"7b31c3c1-0b84-46e2-ad6f-fa7dfa38a78f"},{"start_time":839,"end_time":870,"annotation":[{"type":"paragraph","children":[{"text":"So, Marc, one of the really interesting parts of your book is your reinterpretation of the late 19th and early 20th century, just along the lines we've been discussing. Traditionally, people have argued that, this is a period of, growing trade, growing interdependence between countries, and that actually causes violence and imperialism. You see this the opposite way, right? And tell us more about that."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Conflict, Power and International Relations","tag":"Political Violence"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"060c76ac-381f-41fc-b71b-bf396a43fcae"},{"start_time":870,"end_time":925,"annotation":[{"type":"paragraph","children":[{"text":"Yeah. And I mean, this gets into a lot of kind of historiographical minefields about, you know, why the late 19th, early 20th century is tended, tends to be portrayed as an area of free trade and laissez faire, you know, run amok, as I described. But in reality, this is aside from the British who embraced free trade from the 1840s until the 1930s, one rival empire, the British after another, led by the United States and its growing empire, turned to economic nationalism and imperial expansion across the late 19th, early 20th centuries. And this is exacerbated with the onset of a global depression in 1873. Something we can probably relate to nowadays, which is, during times of economic crises, nations tend to look inwards, tend to retreat from the international system, as we've seen so clearly, in the wake of the great recession and then the pandemic."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"a52950de-fee3-4eb9-aa76-eff1f32040d0"},{"start_time":925,"end_time":963,"annotation":[{"type":"paragraph","children":[{"text":"And so this is what's happening in the late 19th, early 20th century. Yes, ties are still growing, but that's because of these new tools of globalization, transportation costs are drastically falling, steamships and transcontinental railways and so forth. And so you can still have an increase in integration, even though you're seeing a growth of economic nationalism. And of course that imperial expansion that the United States and other rival empires are practicing, is globalizing the world in a certain sense too, through the forceful incorporation of colonies into the kind of Anglo European sphere that they're developing here."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"c795c424-1e7c-4c5a-a3c7-c3f7195c20ad"},{"start_time":963,"end_time":979,"annotation":[{"type":"paragraph","children":[{"text":"But again, it's through these restrictive economic nationalist empires that we're seeing coming to us. And it's this growth. And if you want to take the kind of Marxist approach, the growth of the divvying up of the world amongst these rival protectionist empires that culminates in the first world war."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"e268a02d-5d13-4301-8035-d276b51b165a"},{"start_time":979,"end_time":1006,"annotation":[{"type":"paragraph","children":[{"text":"And just to underline a point before we get to the First World War, you make this clear in your book that the free traders criticize the United States in particular for building a closed empire, closed to external trade empire that benefited U. S. trade in the Philippines, for example. That this was not a free trade empire, as some have argued, but in fact, what the United States was doing was building an economically nationalist empire, correct?"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"cb669522-ca37-4cd3-bc68-1449ce499ee4"},{"start_time":1006,"end_time":1043,"annotation":[{"type":"paragraph","children":[{"text":"Correct. That's correct. And if, and yeah, and one of the things that I tease out here is how it needs these former Spanish colonies that become American colonies in the context of Puerto Rico, say, or the Philippines, or informally with Cuba. Yeah, you start to see this even from the anti colonial nationalists themselves. Who are demanding free trade with the United States, who are poverty stricken from years of internal conflict, fighting the Spanish and so forth, and who are suddenly unable to afford food, afford clothes because of these new protected tariffs that are placed upon them by the protectionist Republican empire builders back in Washington."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Rights, Membership and Public Participation","tag":"Human Rights"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"3e30ff9d-b0db-4d8e-bae4-accdc07579a9"},{"start_time":1043,"end_time":1074,"annotation":[{"type":"paragraph","children":[{"text":"And so, yeah, so even from the colonies themselves, you can start to see this protectionist makeup of the American empire project. And it's this American system idea. This is what it was called, right? This, this protectionist ideology that kind of grew in many ways in the United States across the 19th century that became the American system of protectionism. It's this ideology that's actually going to shape at least more shape that Imperial order amongst Britain's rivals than free trade Britain itself will."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"21eb83df-1f3a-421a-bd3a-7c07fcb7598a"},{"start_time":1074,"end_time":1104,"annotation":[{"type":"paragraph","children":[{"text":"Zachary. You mentioned in your previous answer that there's a connection between this sort of divvying up of the world's resources, and the beginnings of World War One. Could you maybe explain that in more detail? And also, maybe talk a little bit about, you mentioned as well that many leftists have taken this interpretation in particular to make a point about free trade. Could you talk about how that's been interpreted as well?"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"tag":"Zachary Suri","category":"Speakers"}],"uuid":"1e63685d-240f-455d-940e-afc478bdde96"},{"start_time":1104,"end_time":1178,"annotation":[{"type":"paragraph","children":[{"text":"Sure, yeah, and this is a critique that's made by what we call kind of center left critics like J.A. Hobson, this famous British critic of imperialism, liberal radical critic of imperialism, writing around the turn of the 20th century. This is then going to be built upon from an even farther left framework, by V. I. Lennon, imperialism in the highest stage of capitalism, writing amidst the first world war, trying to understand and make sense of how the world had become a world in conflict, how these rival empires turn against one another. And, you know, that's one of the fascinating things about this, if you actually look at this and of course, from the, from the left wing internationalist free trade perspective in general, this is exactly what they've been saying from the get go. And that is that it's this expansion of the protectionist empires, you end up with, and yeah, so what are they trying to do? They're trying to expand empires because according to this critique, at least, you know, protectionism creates monopolies, monopolies create inefficient markets at home. This leads to the apparent necessity to search for new markets, to export surplus capital abroad and to exploit raw materials from these newfound colonies to then be used by these industrializing powers back at home."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"f7b65811-5b98-46cc-ba30-7848f4ec4e46"},{"start_time":1178,"end_time":1232,"annotation":[{"type":"paragraph","children":[{"text":"This is how people from across the left wing spectrum are explaining the growth of imperial expansion across the late 19th, early 20th centuries. And in the case of V.I. Lennon and trying to explain the outbreak of the first world war itself. Once these empires, these expanding empires have run out of new colonies to exploit for exporting surplus capital for exploiting raw materials, they finally turn on one another. And so you can actually see these really fascinating connections and commonalities by capitalist critics of the imperial system and Marxist critics of the imperial system. Indeed, in the context of Hobson and Lenin, this is even called the Hobson Lenin thesis, because Lenin is explicitly drawing on these capitalist theories of imperialism to make his own, even more extreme critiques of the system."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"5a1a5522-9b3b-4b05-b830-c8a77424ddf3"},{"start_time":1232,"end_time":1284,"annotation":[{"type":"paragraph","children":[{"text":"So as I understand it, Marc, you have a real resuscitation of Norman Angle in your book. Norman Angle, as you point out, was this incredibly popular writer in the early 20th century who predicted that countries that trade together will not go to war together. And of course, those countries did go to war in World War I and realists, those who have dominated international relations scholarship really in the last 70 years, kind of use Norman Angle as a whipping boy, right? They say, you see these liberal internationalists, these left wing thinkers who believe that if you create a world of cooperation, you won't have war. See how wrong they are, and the world is filled with inevitable conflict and war. That's the realist argument, of course. You're bringing Norman Angle back, though you're saying he was actually more correct than realists have given him credit for. Do I understand that right?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"6dfffbf6-8332-480c-b293-732d592f650c"},{"start_time":1284,"end_time":1362,"annotation":[{"type":"paragraph","children":[{"text":"Yeah. You know, he's often seen as an early 20th century, Edwardian disciple of Cobdenism. He puts forward this more pragmatic appeal to a businessman's pocketbook with his book, as you point out, the very, very famous and influential, The Great Illusion that gets published in 1910. And that takes the kind of Euro American Left by storm. Norman Angle clubs are getting started all over the place. So he really does pick on a moment here. But if you actually, you know, he spent much of his life actually pushing back against the misunderstandings of it. He intimately understood the growth of political nationalism that was growing across the early 1900s, as well as the economic nationalism of the early 19th century. His, The Great Illusion was not a optimistic call saying that, global, the global, the degree of globalization now means that no wars can happen, it was actually a pessimistic appeal to say that even the winners of a war would lose because the world is so integrated. And I think that's the thing that gets lost along the way, as you point out, by international relations theorists drawing on these early 20th century ideas, boiling him down to a single sentence, it actually has lost the main point, the main thrust of what he was saying."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"3849cf63-a153-4df5-acf4-491770266cd4"},{"start_time":1362,"end_time":1380,"annotation":[{"type":"paragraph","children":[{"text":"He was trying to warn business and then he was trying to warn, you know, the political right really that this continued nationalism, this continued economic nationalism would leave few if any winners, even those who supposedly would win a war at that point. "}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"a0b22d85-01b2-4600-b32b-dda89b1b56e5"},{"start_time":1380,"end_time":1420,"annotation":[{"type":"paragraph","children":[{"text":"So why was it, Marc, that Franklin Roosevelt and Cordell Hull, his Secretary of State, who often gets forgotten, but gets a lot of attention in your book, why is it that they came to agree with Norman Angle?Why did they buy into this free trade argument in the ways in which their predecessors had not? And why did they buy into it after a world war and during the Great Depression, when you would have expected them to be more economically nationalist as Herbert Hoover, Franklin Roosevelt's predecessor certainly was, what led Roosevelt and Hull to shift in the direction of Cobden and others during the great depression?"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"19b09b88-7b44-4862-a775-802185000139"},{"start_time":1420,"end_time":1490,"annotation":[{"type":"paragraph","children":[{"text":"Hmm. Yeah, and I mean you can see, you know, one of the things I try to do especially with the first book is that the earliest origins of this and in the late 19th century, so you do see this start to show itself a bit with the two non consecutive administrations of Grover Cleveland in the late 19th century 1885 to 89, 1893 to 97, where you see a noticeable pushback against the Republican empire project. Attempts, failed attempts to create a freer trade system in the United States. Woodrow Wilson goes somewhat in that direction when it comes to free trade. He is a self described disciple of the Manchester school, which is another term for Cobdenism. Although it's not necessarily something that is demonstrated by his foreign policy in, say, the Caribbean region. So yeah, it's really going to be when, when FDR appoints Cordell Hull as secretary of state. And I think it's important again to understand someone like Cordell Hull who got his political start as a 17 year old stump speaker for Grover Cleveland in 1888 amid the great debate over whether the United States would take a free trade path or a protectionist one."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"7a14769e-7787-4b33-ae2a-af33e613cc26"},{"start_time":1490,"end_time":1515,"annotation":[{"type":"paragraph","children":[{"text":"And of course the protectionists would win that one. And then of course, Cordell holds lessons that he learned from the first world war really firmly ingrained the fact that he connects free trade with anti imperialism and peace, and he sees the first world war clearly as one that was begun by these economic conflicts, these trade wars that led up to the outbreak of the First World War."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"eb74615b-80df-4bf6-856e-b64a9f2d2355"},{"start_time":1515,"end_time":1587,"annotation":[{"type":"paragraph","children":[{"text":"So that, those are lessons he takes, but the question is then, how do FDR and Cordell Hull succeed where their predecessors had failed? And I think you put your finger on it there with Herbert Hoover. The Republican protectionist project that began in the 1860s finally loses the support that it was able to maintain from American laborers through these kind of political debates that dominated the scene for so long. And that's because of the infamous Hawley Smoot, or Smoot Hawley Tariff of 1930. That is this protective tariff that Hoover's administration passes just on the heels of the outbreak of the Great Depression. And it's clear to everybody by 1932, and the presidential elections that this protective tariff had exacerbated and made worse the great depression that had created these trade tensions, shrunk international trade when it needed to be increased. And so FDR and Cordell Hull are able to build on this shift happening within the American body politic to start turning it towards a freer trade direction."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Labor Politics"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"b85022af-37dd-4a10-83d9-5a1ea36e79c4"},{"start_time":1587,"end_time":1601,"annotation":[{"type":"paragraph","children":[{"text":"And that's exactly what they're going to do. With the Reciprocal Trade Agreements Act, and then, of course, with the creation of what we now associate with, sort of, post 1945 Bretton Woods system, that comes into being in the late 1940s"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"e523e787-3d32-4d55-aefe-cf77948bafea"},{"start_time":1601,"end_time":1614,"annotation":[{"type":"paragraph","children":[{"text":"Right. And this, as you describe it, becomes a kind of true golden age for free trade, if we might call it that, from the end of World War II until, I don't know, late 1960s, early 1970s, is that correct?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"_uncategorized_","tag":"Economic PowerJeremi Suri"}],"uuid":"2ac8a543-9a93-48e6-8764-1137ab5a1a31"},{"start_time":1614,"end_time":1674,"annotation":[{"type":"paragraph","children":[{"text":"Or at least it could have been. It, was really, actually, when I first started thinking about this way back, you know, 10 or so years ago, that is how I kind of thought that the story was going to progress or at least in that nice, neat way. What I ended up finding, the more I dug into the, around, I guess, right after the end of the Second World War is that, yeah, it does seem from 1945 until 1950, especially, things seem to be going their way. That these supranational organizations are, are able to kind of clamp down a bit at least on nations' predilections for, for protectionism. We have a new, better, stronger supranational structure under the United Nations than they had with the League of Nations. And the left wing free traders that I'm tracing actually have, they actually have a direct line to the State Department. There's a remarkable relationship that develops between Cordell Hull and these left wing free traders."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"e431164d-e4fc-4614-aa9c-5255e04a29eb"},{"start_time":1674,"end_time":1721,"annotation":[{"type":"paragraph","children":[{"text":"The Young Women's Christian Association is really big on this. But it brings in a broad umbrella of these free trade advocates to support the Roosevelt administration's free trade reforms. And so this is going to lead to, yes, these Bretton Wood, you know, structures, the IMF and so forth, but even more important here is the creation of the general agreement on tariffs and trade in 1947, which Hull is broadly considered to have created. And of course this will become the world trade organization in 1995. So at least the structures of what we associate with multilaterals and with free trade had come into being in the late 1940s and the left wing free traders, you know, I think to a certain extent, plausibly pat themselves on the back for helping to bring it about."}]}],"tags":[{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"d882e49d-2cb4-45ec-830b-420dc0f99871"},{"start_time":1721,"end_time":1741,"annotation":[{"type":"paragraph","children":[{"text":"But of course the cold war decolonization, the growth of a right wing free trade tradition that we touched on at the very beginning of this discussion, all of these things are going to start muddying the waters, so to speak, and make the, what seemed like a new freer trade system, much less easy to maintain."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"d136f82f-3985-4a1a-89f8-5d3c84d4fd86"},{"start_time":1741,"end_time":1770,"annotation":[{"type":"paragraph","children":[{"text":"And to me, that's one of the more interesting parts of your overall very interesting book is when you get to neoliberalism and you get to the 1970s and 80s and Margaret Thatcher and Ronald Reagan, many would see them as free traders and maybe even as inheritors of Richard Cobden's ideas, you say, no. You draw a distinction between neoliberals and free trade peace activists. What is the distinction there?"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"64e9539d-7745-46fc-bcfb-0fb467238935"},{"start_time":1770,"end_time":1795,"annotation":[{"type":"paragraph","children":[{"text":"Well, from the left wing free traders perspective, there's an evolution that happens. So maybe it's a generational evolution that's happening here too. They're much more sympathetic by the 1950s, 1960s, 1970s of the decolonizing world, of what we might call the global South, the G77, these demands for temporary protectionism by these recently decolonized States."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"ad5fb25c-db6c-404a-950b-2ddb5fea5733"},{"start_time":1795,"end_time":1822,"annotation":[{"type":"paragraph","children":[{"text":"There's a great deal of sympathy for this, leads to all sorts of new left wing internationalist movements like the fair trade movement, who are similarly advocating these things and have that similar sympathy for demands from labor, demands from the decolonizing world. So this is going to be different from how these free traders on the right are going to respond to these, international issues, and activists."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Labor Politics"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"c6a8a409-b8ef-4217-b606-536ee26c297e"},{"start_time":1822,"end_time":1877,"annotation":[{"type":"paragraph","children":[{"text":"And so that's one of the big differences here. So, yes, you have Thatcher in the seventies coming onto the political scene in Britain, who's going to slam down a book by Hayek as soon as she walks in and says, you know, this is what we believe. Frederick Hayek, one of the intellectual founding fathers of neoliberalism. And in a similar way, Reagan is going to surround himself with, you know, neoliberal, right wing economists who are extremely distrustful of anti colonial nationalist demands for protectionism. They're increasingly dis trustful of democracy itself, of course of the welfare state, of trade unions, there's really quite key differences here, but I think the two biggest are where these neoliberals are willing to do at the foreign policy realm and, and how they associate free trade with democracy."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Origins, Development and Historical Change","tag":"Democratic Risks and Threats"},{"category":"Social and Economic Forces","tag":"Labor Politics"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"ec0c9a21-7ea2-4c95-8aae-822ec7465427"},{"start_time":1877,"end_time":1944,"annotation":[{"type":"paragraph","children":[{"text":"So the free, the left wing free traders of the book, the main actors in the story closely associate free trade with democratization. And a foreign policy of non interventionism, right? You don't force free trade onto another state unwillingly. This is something that neoliberals 1980s onwards are going to deviate from drastically, even though in many ways they're drawing from the same intellectual wellspring. And so this is where we have the neoliberals who are gonna you know, support Pinochet's Chile, this, you know, dictatorship in Chile and apartheid South Africa, and who are increasingly gonna see democracies, especially democracies from the left, as a threat. An impediment to free trade rather than as an accompaniment to free trade. And so using military interventionism and being suspicious of democratic movements, in the name of free trade, this shows them to be something quite different from the free trade internationalist tradition that I was tracing in previous chapters."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Origins, Development and Historical Change","tag":"Democratic Risks and Threats"},{"category":"Conflict, Power and International Relations","tag":"Political Violence"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"21597861-d434-44f8-a22d-2aec1f5a4600"},{"start_time":1944,"end_time":2003,"annotation":[{"type":"paragraph","children":[{"text":"And you make the, you make the argument that neoliberalism, as you say, this is from your book, page 218, that neoliberals have effectively co opted free trade as a neo colonial tool. So you are clearly making the case, there's a different version of free trade that's not neo-colonial, that's not mercantilist. As you call the, the moment from 2016 on. What would that be? I mean, one of the real goals of our podcast each week is to try to use history to help uncover alternative pathways. Things we could do today that would be hopeful. So what is the hopeful alternative to the world of US-China market rivalry that often seems to disempower smaller countries and smaller cultures. What's the alternative pathway from the left wing free trade vision that you've excavated so well here, Marc?"}]}],"tags":[{"category":"_uncategorized_","tag":"Structural Drivers of Conlfict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"a6579581-6803-41bc-bd7e-eaeb7b3f7bef"},{"start_time":2003,"end_time":2053,"annotation":[{"type":"paragraph","children":[{"text":"Yeah, great. Really, really, that's a really difficult, but really important question. And maybe we can end it on a positive note if I do this correctly. Yeah, I, so we have these multilateral institutions that, It comes into being precisely to create a more peaceful and interdependent world in the late 1940s. But they increasingly become controlled, taken over by this more right leaning, internationalism of the neoliberals and of multinational corporations within the kind of context of the Milton Cold War. And so this is, I think, the beginning of it. And so because of that too, you also see a lot less of a strict adherence to free trade internationalism, especially once Cordell Hull is no longer in the State Department."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"74a56c4c-1950-4838-98ba-62d4d8519f27"},{"start_time":2053,"end_time":2074,"annotation":[{"type":"paragraph","children":[{"text":"And so you still start to see, kind of the hangover of this imperialism of economic nationalism that had dictated American foreign policy for so many decades leading up to the Second World War. And you see this most visibly even today with the Cuban embargo, something done under Democratic auspices, but continued under both parties."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"_uncategorized_","tag":"Structural Drivers of Conlfict"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"2bcafc11-f807-416e-a66a-7154d7f73e0a"},{"start_time":2074,"end_time":2147,"annotation":[{"type":"paragraph","children":[{"text":"And so in an interesting way, the legacy of the imperialism of economic nationalism in the United States, it's still very, was very much with us even before 2016, even before we ended up electing. an avowedly protectionist Republican president. You know, it was one of those things in 2016 that I was not surprised by at all. And of course, you could point back to most of the history of the Republican party as a party of protectionism, that Trump was by no means an anomaly, but a return to the status quo, from this longer viewpoint. But it was interesting to see how the Democrats from 2020, started just borrowing from and echoing Trump's protectionist platform to the point now that we're going to have, it looks like, a Republican protectionist running for president, and we're going to have a Democratic protectionist running for president in the 2024 elections. And like you say, in the context of trade wars and steel tariffs against the EU, and geopolitical conflict that's being drawn from that, sanctions against a variety of states as well, food embargoes and blockades, and then of course the Cuban embargo itself is still very much a thing."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"d00b53a8-39af-4f9d-93a8-5b6e6137810f"},{"start_time":2147,"end_time":2207,"annotation":[{"type":"paragraph","children":[{"text":"And so what remains of the left wing free trade movement has been still fighting this fight. We still have a variety of left wing peace organizations that have been and remain very critical of, say, the U. S. Cuban embargo. We still have organizations like the Fair Trade Movement, which was created in Oxford in 1968 with the Hasselmeyer Declaration, but which was an alternative form of globalization and an alternative form of, ethical free trade as they put it and there's something I'm sure we're all listening here are familiar to a certain extent. But you know, we see the fair trade stamped on our bars of chocolate or our coffee bags, but it actually has a history, that I argue at least, that goes back to the 1840s. And it's also putting forward this idea that we can, you know, can pay a bit more if it means making sure that the things we're buying are not using exploited labor, that people are getting paid a fair wage."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Rights, Membership and Public Participation","tag":"Human Rights"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"47015644-ccde-4133-9cd6-d1fa950745dc"},{"start_time":2207,"end_time":2232,"annotation":[{"type":"paragraph","children":[{"text":"And so this alternative globalization, alter globalization, from the left, is still around. It's still prominent, but it is very much on the outs because of all these kind of transformations of the global system we've been touching on. The growing power of neoliberal policies at the top and, the lack of influence that left wing internationals now have over policymaking."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"5a1c26a5-3c4d-4cee-af8c-443e0fb60c9d"},{"start_time":2232,"end_time":2302,"annotation":[{"type":"paragraph","children":[{"text":"But I think maybe one way to think about it, and one thing you can draw from this book as a way of going forward here is how the left wingers, the liberal radicals, the socialists, the women's suffragists, the Christian pacifists, they all, by the early 1900s, by around the time of the First World War, came together and were working together in ways that would probably surprise us, especially with our Cold War lenses on, the idea that Marxist internationalists were working alongside capitalists to try to create a more interdependent, peaceful order. That is still a possibility, and maybe that is the only way to revitalize this if you do see the world in a way that these left wing internationals see it. It's through a new coalition form of like minded, dare we say globalists who see the kind of, inward looking, turn towards autarky and trade wars that have become so commonplace now as something that they want to oppose. It was an interesting lesson to be drawn from this book where actually, in surprising ways, there was a really broad left wing coalition that was in many ways successful in working together to overturn the protectionist system."}]}],"tags":[{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"e0b17106-203d-46d5-a181-0e2a9d66031d"},{"start_time":2302,"end_time":2319,"annotation":[{"type":"paragraph","children":[{"text":"I just have to ask before we turn to Zachary's thoughts on this, isn't that really what Bill Clinton and Barack Obama were trying to do? You criticize them actually in the book, but wouldn't they identify with the alternative vision you just articulated?"}]}],"tags":[{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"f94ddc09-1d02-4e1d-ad85-a332bf3fe79f"},{"start_time":2319,"end_time":2384,"annotation":[{"type":"paragraph","children":[{"text":"Certainly more so than their Republican counterparts, certainly more so. I, you know, I do try to make the point though, that even still their foreign policy credentials when it comes to military interventionism. In the case of, say, Haiti or, in the context of Clinton, for example, his sanctions against Iraq in the 1990s, these are, you know, these are limiting trait. These are things that the leftwing free traders, the non-interventionists would've been vocally opposed to. But I think it, to a certain extent, they're still there. You can certainly see it in the rhetoric of Clinton, and I think with Obama, perhaps even more so in the policy practices that he was operating under, his attempts to support the Trans Pacific Partnership, despite the critiques from the alt left, that were still critical of too much of an influence for the multinational corporations. And some elements of this certainly still at play within democratic internationalism of Clinton and Obama. I think that's fair."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"_uncategorized_","tag":"Structural Drivers of Conlflict"},{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"91e10b0d-046d-4ec7-982c-be8cad9b7ba8"},{"start_time":2384,"end_time":2407,"annotation":[{"type":"paragraph","children":[{"text":"Zachary, what are your thoughts on this as someone who cares deeply about international trade and international connections? You're participating in this podcast from Leipzig, Germany, where you're doing some research of your own now, I mean, does Marx history resonate with a vision for where democracy and international affairs can go today?"}]}],"tags":[{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"db4a60c8-eb6a-4fb7-9c9a-59cb7760bd95"},{"start_time":2407,"end_time":2480,"annotation":[{"type":"paragraph","children":[{"text":"I think it does. I think it's also the last question in particular, last answer, was a really important reminder that oftentimes the questions that need to be asked or are not necessarily, like, ones of ideology, but of whose interests certain policies are serving. I think the sort of description of how the, at least the ages of free trade, was overtaken by neoliberalism in the 70s and 80s is a really important lesson about the importance of keeping in mind whose interests our policies serve, because, looking at it on paper, it can seem that the neoliberal policies are of the same tradition, but, in reality they were serving very different interests. And I think also this vision of left wing free trade is something that we should all take very seriously, especially at a moment when our, when the sort of liberal international institutions, which this movement created or the descendants of this movement created after World War II seem most threatened. And certainly when our, when the sort of free trade world order that developed after the end of the Cold War seems most threatened as well."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"tag":"Zachary Suri","category":"Speakers"}],"uuid":"3493cfcc-3fcd-49f1-b48d-0d988cba7d90"},{"start_time":2480,"end_time":2520,"annotation":[{"type":"paragraph","children":[{"text":"Yes, I think that's really well said, Zachary. And one thing, Marc, I've been thinking about as I was re-reading your book, and as I've been listening to your really thoughtful and inspiring comments today, you know, we are entering a moment where it does seem that protectionism is the main valence of politics. As you say, both presidential candidates in the U. S. this year will be running as protectionists, as advocates of industrial policy of one kind or another. Certainly that's the way China operates. The E. U. Has been moving more in that in that direction, and of course, we're witnessing wars, economic nationalist wars across the world from the Middle East to Ukraine and Russia."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"category":"_uncategorized_","tag":"Warfare and Scoiety"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"aaebdb6b-dead-4028-a384-1396dba46bcb"},{"start_time":2520,"end_time":2575,"annotation":[{"type":"paragraph","children":[{"text":"But as all that's happening, there is a desire to move beyond this moment in a search for an alternative. And especially in a world that's torn by inequalities and warfare, this vision of interdependence, of trade, of openness, of, building prosperity, shared prosperity through open connections that are not militarized and mediated by international institutions. That actually might become a more compelling vision. Much of the discussion around the International Criminal Court is in many ways a discussion about this. And so we might be on the cusp, just as we were in the late 1920s, we might be on the cusp again of another free trade international peace activist moment. That would seem to be the hopeful democratic message in much of this. Do you agree with that Marc?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Social and Economic Forces","tag":"Inequality"},{"category":"Conflict, Power and International Relations","tag":"International Organizations"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"24b738ef-f054-4a17-b627-5ff3052479b9"},{"start_time":2575,"end_time":2612,"annotation":[{"type":"paragraph","children":[{"text":"You both put it so, so well as far as what might be possible hereafter. And of course, if I were to take maybe even a more cynical approach at looking back to the successes, not just of the FDR and 1930s, but, you know, why it was that the free traders succeeded in Britain in the 1840s. And, you know, for them it connected to peace and, but I think the prosperity element, I think, is the other important thing here too. And I think for maybe a lot more people, the connection between interdependence and peace is going to be less important than what it means for their pocketbooks.\n\n\n\n"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"ea071284-1ff6-4a8e-87e7-44bc3268c950"},{"start_time":2612,"end_time":2642,"annotation":[{"type":"paragraph","children":[{"text":"And so, you know, the increase of prices that is becoming, it's hurting the poorest among us even more than anybody else. You know, I wonder if that prosperity argument that often comes with free trade, lower prices for goods, potentially something really important to a lot of the actors in my book, especially the women's suffragists ending world hunger by the equitable distribution of trade, of food through, through a free trade system, that also I think might resonate or perhaps might resonate with the even larger group."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Inequality"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Rights, Membership and Public Participation","tag":"Civic Participation"},{"category":"Speakers","tag":"Marc Palen"}],"uuid":"d16db359-583d-4f18-a7ef-4f8ce850d491"},{"start_time":2642,"end_time":2700,"annotation":[{"type":"paragraph","children":[{"text":"Yes, I think that's very well said, Marc, and a very nice connection to one of the central issues of our world today, which is the inequalities in food and nutritional access across, within countries and across countries. Of course, this brings us full circle, as always, to, in some ways, the inspiration for our podcast, which is Franklin Roosevelt. We started this podcast with his inspiration for how each generation writes a new chapter in the book of democracy. And, as always, the new chapters build on old chapters. Chapters that might have been forgotten before. Marc, you have in your book, Pax Economica, that I recommend to all of our listeners, you have reminded us of such an important chapter in the evolution of Anglo American and international democracy in the 19th and 20th centuries. A chapter that seems more relevant than ever in this neo mercantilist age, as you call it. Thank you so much for joining us this week, Marc, and sharing your insights with us. "}]}],"tags":[{"category":"Social and Economic Forces","tag":"Inequality"},{"category":"Origins, Development and Historical Change","tag":"Democratic Development"},{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Structural Drivers of Conflict"},{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"674dd5c6-961c-47d1-a192-78f60b0629f6"},{"start_time":2700,"end_time":2704,"annotation":[{"type":"paragraph","children":[{"text":"Thank you so much again for having me and for this great conversation. It's a pleasure."}]}],"tags":[{"category":"Speakers","tag":"Marc Palen"}],"uuid":"2bedea19-795a-4308-af94-879e2a5bf216"},{"start_time":2704,"end_time":2721,"annotation":[{"type":"paragraph","children":[{"text":"And Zachary, thank you for your poem. Your image of us sailing is still very prominent in my mind throughout our conversation. And thank you, of course, most of all, to our loyal listeners for joining us for this episode of This Is Democracy."}]}],"tags":[{"tag":"Jeremi Suri","category":"Speakers"}],"uuid":"c9caf472-20da-4379-a9d6-0814b91b82e8"},{"start_time":2721,"end_time":2754,"annotation":[{"type":"paragraph","children":[{"text":"This podcast is produced by the Liberal Arts ITS Development Studio. And the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Jerez Codini. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and Stitcher. See you next time."}]}],"tags":[{"tag":"Outro","category":"Framing Elements"}],"uuid":"59be4ad8-cb02-4758-851b-69d658a5485f"}],"set":"Default","event_id":"42819409-140a-4740-93c6-22c173104708","source_id":"8fdb5454-da92-42bd-a9b4-c12619dfeb09"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy. A podcast about the people of the United States. A podcast about citizenship. About engaging with politics and the world around you. A podcast about educating yourself on today's important issues. And how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "282112a3-d63b-4350-a52a-da74a27f877e"
+    },
+    {
+      "start_time": 24,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of This Is Democracy. This week we're going to discuss a term that is thrown around almost every day in newspapers and political discussion, but a term that is rarely defined or historicized, and that term is free trade. The United States calls itself a free trade nation. Whether that's true or not is something we'll discuss, but more significantly we'll discuss what free trade really means, and how a group of thinkers, pioneering thinkers and political activists and policy makers in the 19th century pioneered a new way of pursuing free trade with certain ideals of peace attached to it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "7716359a-9db0-4611-a351-1463fba6e113"
+    },
+    {
+      "start_time": 67,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We'll understand and talk about what it was that they meant and what it means for us today as we understand our own world. We're fortunate to be joined by a friend and really wonderful scholar, Marc Palen. Marc is a historian at the University of Exeter, and his new book that we're going to talk about is called Pax Economica: Left Wing Visions of a Free Trade World.  It was just published in early 2024 by Princeton University Press. It's already been featured in the New Yorker magazine, one of my favorite magazines, as one of the best new books out in the last year. Marc has written on this topic before, his dissertation that he wrote at the University of Texas at Austin. And his first book is called The \"Conspiracy\" of Free Trade: The Anglo-American Struggle for Empire and Economic Globalization. Marc also writes frequently for major newspapers and magazine, including Le Monde in France, Time Magazine, the Washington Post, New York Times, and the Australian Eye. So he covers at least three continents, if not more, in his writing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "f7ee96fc-0672-4f1e-8ac4-3002abc182c5"
+    },
+    {
+      "start_time": 132,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as I, as I said before, Marc has a connection to the University of Texas. He was a graduate student here. And so we're very proud of the work that he's done. Marc, thanks so much for joining us today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "6fb269e4-175c-473a-b109-d58df169b8fa"
+    },
+    {
+      "start_time": 144,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much for having me. Much appreciated. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "dfa66e31-21e1-4efd-a33a-22e7a5034704"
+    },
+    {
+      "start_time": 147,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm really looking forward to this discussion. Before we get into our discussion of Marc's book and free trade, we have, of course, Mr. Zachary's scene setting poem. Zachary, what's the title of your poem today? A World at Sail. A World at Sail. Okay, well, let's sail into it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "3d577119-0c9a-4126-a84c-73b801d7ea65"
+    },
+    {
+      "start_time": 165,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes I am awakened in the middle of the night by the fear my imaginings won't turn out right. I toss and turn and think of nothing more than a coffee in the morning and the rain that starts to pour. Sometimes I am startled at the way the earth can turn, yet everything is standing still as ashes in an urn. I watch the time that passes by and wonder at its speed, knowing each who dies was but a planted seed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ea79f81c-8429-4764-a5d9-ca5572ff953b"
+    },
+    {
+      "start_time": 196,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes when the sun is setting, I wonder if a hope is nothing more than mud to scrub away with soap. I watch the darkness coming with its ominous smile, and the birds no longer humming are erased in single file. And yet each morning when it comes at last, I see a new world rising and it's rising fast. A world of peace that isn't stale, a world at sea, a world at sail. We are chasing Earth's still spinning tail, like birds who sing at every dawn. The hate has flown, the fear is gone, I spy your ports, you spot my shores, you sell my treasures in your stores. Each setting sun is now a kind of hoping that tomorrow will be in the harbours roping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1ecd5241-cb16-4621-9b07-ce420cf13a1a"
+    },
+    {
+      "start_time": 247,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love the imagery, Zachary, and I love the evocations of peace and peacemaking. What is your poem about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "d3f00530-9691-4c51-8774-4a24ccbff245"
+    },
+    {
+      "start_time": 257,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My poem is about the ways in which, even in the points in our lives, and in our politics when we are the most cynical. That trade, and sort of physical connection across the vast seas of the world, can offer a real opportunity for peace and real hope, even when things seem sort of impossible abysmal around us. Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "e796ac15-c245-4ad9-bdff-64562c1e41d6"
+    },
+    {
+      "start_time": 290,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marc. I think that's a great place to really dive into your book. So much of your book, especially the first 2 to 3 chapters is about the efforts of certain activists, seems to me, to escape what they see is the imperialism and economic nationalism and cruelty of of the 19th century of the world of empire that we all know a fair amount about. Why did these activists, Richard Cobden is one of them who stands out, why did they turn to free trade as a source of peace and anti imperialism, as you call it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "e804c719-264a-4c98-9556-189c2a8ef5fc"
+    },
+    {
+      "start_time": 321,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, this is, you know, it gets this sort of Enlightenment era ideas that this is building off of, but it's also, I think, building off of something new that's developing in the mid 19th century was, which is, a truly global economic system in a, in ways that we, you know, understand it today and global food systems and so forth. And pushing back against the mercantilist system that had dominated the imperial order up until the mid 19th century, a mercantilist system of protectionism, of closed imperial markets and seemingly constant war, and geopolitical conflict. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "cdd51ee3-fbf7-4093-95d8-03e197b9e816"
+    },
+    {
+      "start_time": 362,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so when this free trade movement that Richard Cobden in Britain spearheads, this middle class pressure group, the anti corn law league, it's beyond just lowering Britain's trade walls and allowing for cheap goods and cheap food to flow in. He actually sees this direct connection between those domestic reforms and reforming the international order. Something that if we, I guess in international relations scholarship, we would think we call capitalist peace theory or interdependence theory, the idea that the more countries trade with one another, the less likely they are to go to war. This is kind of when this is really starting to take root, at the left of center into the political spectrum in remarkable ways. And so yeah, go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "7e18722a-17ac-497f-848c-9e1bfed08adc"
+    },
+    {
+      "start_time": 411,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And it's striking to me in your book that, and it's in your subtitle, right? These are left wing visions. These are progressive, self defined progressives in many ways. The figures who you include go from Richard Cobden to Jane Addams, Norman Angle, so many of these people we associate with progressive anti war, anti imperial stands. Many listeners today, though, might think about free trade as benefiting large corporations and benefiting the rich, allowing the rich to get richer. We think about that with the movement of capital and investments and hedge funds and things like that today. Obviously, your progressive figures have a different vision of what free trade is about. How do they connect it, as you describe in the book, to domestic reform?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "0f84d942-9984-479b-ae0e-bfcd531f9e1e"
+    },
+    {
+      "start_time": 456,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, great point. And I mean, yeah, this does, you know, challenge in a certain sense, associations that we commonly have now, the champions of the free market as right wing in their leanings. And, so yeah, this is about how those left of center, the anti imperialist, the peace activists, the abolitionists, the women's suffragists, so many of these things that we would think of left of center politically, even now, were coming together in really remarkable ways from the 1840s onwards. And one of the ways they were doing it is, you have to understand that kind of the way that the global order was still essentially being run, who were the people in charge? In the context of mid 19th century Britain, for example, this is an era in which the aristocratic elites still are running the show."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "60788edb-6a63-4f1d-a55d-21a8e5b7d376"
+    },
+    {
+      "start_time": 507,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And who are the aristocratic elites? They are the landed elites. They are the ones who are making all the money off of these protective tariffs on foreign grain, even though it means people in these industrializing cities in Britain are starving. And so it, by going after the economic power of landed elites, you can then, minimize their power politically as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "637c5361-5ea5-470e-b3ef-d11c9cc63e5a"
+    },
+    {
+      "start_time": 532,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this allows for greater democratization. It also means that if you democratize foreign policy and you minimize the power of these militant aristocratic elites on foreign policymaking, then you can create a more peaceful foreign policy system that doesn't require large standing armies and navies, which means you can lower taxes and thus, make things even more affordable to a mass majority of people. So that's the kind of in a nutshell, how they connect that domestic element with the foreign policy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "c5d03127-da58-4ca5-abf3-7cdfa06280b4"
+    },
+    {
+      "start_time": 563,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gotcha. Zachary? And how did this movement for free trade, the successful movement for free trade, in England, how did it change politics? Did it make political institutions more egalitarian in the direction that these groups hoped?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "929b87e1-ffba-4bd4-824f-826583d42b7d"
+    },
+    {
+      "start_time": 579,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, that's an interesting one. Yeah. I, to an extent, yes. I mean, male franchise, certainly, you know, universal male franchise certainly was something that became more viable after this. It also was closely associated with what would become first wave feminism, this desire for women's suffrage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "824f57c6-70b4-43e9-9e5c-2c01292abc37"
+    },
+    {
+      "start_time": 599,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's actually some really interesting figures that are, what we might not consider first wave feminists who are working within this free trade movement in Britain, who are also connecting this with, expanding women's rights to vote and equality for women. You can even see this within the abolitionist movement, which in many ways is seen as sort of the flip side of the free trade coin at this time. Freeing men and freeing trade, seeing as kind of mutually reinforcing. So you have the Garrisonian Abolitionists, as they were called, the really radical wing of the abolitionist movement that William Lloyd Garrison of Boston was leading, that was trying to allow more women's voices into the abolitionist movement. And of course, he's also a free trader, during this time, becomes associated with this, what they call a Cognite moment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "5a71796a-efbc-42e4-ba66-b48f2d660b1b"
+    },
+    {
+      "start_time": 647,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so if you think about that in the short term, in the near term, you see the kind of greater enfranchisement, you do see something of a greater empowerment of the liberal party in these reforms that they're undertaking in Britain happening. And then if you take a longer view and thinking about how, you know, 50, 60 years later, this is going to culminate in women's suffrage as well. And in many ways, these two, as I try to show in the book, these two movements kind of work in tandem throughout most of these decades, that you can see that connection there, I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "0e47c96b-2a76-4ef1-aa97-93aa251cb581"
+    },
+    {
+      "start_time": 678,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the striking elements of your book to me, and this also echoes a point you made in your prior book. So it's one of the Palen contributions to understanding these issues, is that the United States, for all of its claims about free trade, was not a free trading nation in the late 19th and early 20th century, and in some ways was the enemy of these free traders. Can you say more about that, Marc?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "c50774f5-7bc6-4c46-8059-9c7088b30c45"
+    },
+    {
+      "start_time": 702,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, and it's really mainly the Republican Party. So the Republican Party, when it's founded in the 1850s, it is, of course, the party of anti slavery. But once slavery officially comes to an end at least and, with the end of the civil war, 1865, the Republican party refashioned itself as the party of protectionism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "02e23e59-5418-48c3-a9fb-0df057566f0b"
+    },
+    {
+      "start_time": 724,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so with their dominance of American politics throughout most of the decades that follow up, until the election of Franklin Delano Roosevelt, you have this republican style protectionist policy. It's a very anglophobic one. Fear, hatred of the British is a common political tact that's taken to reinforce these protectionist demands, but it's also, you know, the American industries were certainly less developed than those of the British, and so they saw this as a way to catch up to and rival, the more industrially advanced British, who had recently adopted free trade."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "2ed9c781-6038-4488-b14c-d8cd97ca6c33"
+    },
+    {
+      "start_time": 761,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So this seemed like a nice counterbalance to it, and also led to all sorts of geopolitical conflicts with America's neighbors, especially the British colony to the north, Canada. And then when the United States becomes a proper, formal empire in its own right under Republican auspices in 1898 after the Spanish American war, it's a protectionist economic nationalist empire that comes into being here that the Republicans oversee. And, you know, pushing back against that common understanding that we, I think we tend to make of this late 19th, early 20th century, those decades leading up to the first world war as some sort of Gilded Age era of free markets and laissez faire run amok. One of the things I've been trying to push back against is to say that, that's actually, it was quite the opposite."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "c2c5dd0e-22d1-4d64-afbb-adf60d9ff395"
+    },
+    {
+      "start_time": 810,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this is exactly how these left wing free traders saw the world system, as a world system dominated by empires who lean towards economic nationalism, at home and abroad. And I think without understanding that protectionist makeup of the American people, American empire, as well as other rival empires, like the French, the Russians, the Italians, the Ottomans, the Japanese, and so forth, that you get, it really would be impossible to understand why this broad left wing internationalist subscription to free trade existed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "7b31c3c1-0b84-46e2-ad6f-fa7dfa38a78f"
+    },
+    {
+      "start_time": 839,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, Marc, one of the really interesting parts of your book is your reinterpretation of the late 19th and early 20th century, just along the lines we've been discussing. Traditionally, people have argued that, this is a period of, growing trade, growing interdependence between countries, and that actually causes violence and imperialism. You see this the opposite way, right? And tell us more about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "060c76ac-381f-41fc-b71b-bf396a43fcae"
+    },
+    {
+      "start_time": 870,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And I mean, this gets into a lot of kind of historiographical minefields about, you know, why the late 19th, early 20th century is tended, tends to be portrayed as an area of free trade and laissez faire, you know, run amok, as I described. But in reality, this is aside from the British who embraced free trade from the 1840s until the 1930s, one rival empire, the British after another, led by the United States and its growing empire, turned to economic nationalism and imperial expansion across the late 19th, early 20th centuries. And this is exacerbated with the onset of a global depression in 1873. Something we can probably relate to nowadays, which is, during times of economic crises, nations tend to look inwards, tend to retreat from the international system, as we've seen so clearly, in the wake of the great recession and then the pandemic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "a52950de-fee3-4eb9-aa76-eff1f32040d0"
+    },
+    {
+      "start_time": 925,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so this is what's happening in the late 19th, early 20th century. Yes, ties are still growing, but that's because of these new tools of globalization, transportation costs are drastically falling, steamships and transcontinental railways and so forth. And so you can still have an increase in integration, even though you're seeing a growth of economic nationalism. And of course that imperial expansion that the United States and other rival empires are practicing, is globalizing the world in a certain sense too, through the forceful incorporation of colonies into the kind of Anglo European sphere that they're developing here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "c795c424-1e7c-4c5a-a3c7-c3f7195c20ad"
+    },
+    {
+      "start_time": 963,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But again, it's through these restrictive economic nationalist empires that we're seeing coming to us. And it's this growth. And if you want to take the kind of Marxist approach, the growth of the divvying up of the world amongst these rival protectionist empires that culminates in the first world war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "e268a02d-5d13-4301-8035-d276b51b165a"
+    },
+    {
+      "start_time": 979,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And just to underline a point before we get to the First World War, you make this clear in your book that the free traders criticize the United States in particular for building a closed empire, closed to external trade empire that benefited U. S. trade in the Philippines, for example. That this was not a free trade empire, as some have argued, but in fact, what the United States was doing was building an economically nationalist empire, correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "cb669522-ca37-4cd3-bc68-1449ce499ee4"
+    },
+    {
+      "start_time": 1006,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Correct. That's correct. And if, and yeah, and one of the things that I tease out here is how it needs these former Spanish colonies that become American colonies in the context of Puerto Rico, say, or the Philippines, or informally with Cuba. Yeah, you start to see this even from the anti colonial nationalists themselves. Who are demanding free trade with the United States, who are poverty stricken from years of internal conflict, fighting the Spanish and so forth, and who are suddenly unable to afford food, afford clothes because of these new protected tariffs that are placed upon them by the protectionist Republican empire builders back in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "3e30ff9d-b0db-4d8e-bae4-accdc07579a9"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, yeah, so even from the colonies themselves, you can start to see this protectionist makeup of the American empire project. And it's this American system idea. This is what it was called, right? This, this protectionist ideology that kind of grew in many ways in the United States across the 19th century that became the American system of protectionism. It's this ideology that's actually going to shape at least more shape that Imperial order amongst Britain's rivals than free trade Britain itself will."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "21eb83df-1f3a-421a-bd3a-7c07fcb7598a"
+    },
+    {
+      "start_time": 1074,
+      "end_time": 1104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary. You mentioned in your previous answer that there's a connection between this sort of divvying up of the world's resources, and the beginnings of World War One. Could you maybe explain that in more detail? And also, maybe talk a little bit about, you mentioned as well that many leftists have taken this interpretation in particular to make a point about free trade. Could you talk about how that's been interpreted as well?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1e63685d-240f-455d-940e-afc478bdde96"
+    },
+    {
+      "start_time": 1104,
+      "end_time": 1178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure, yeah, and this is a critique that's made by what we call kind of center left critics like J.A. Hobson, this famous British critic of imperialism, liberal radical critic of imperialism, writing around the turn of the 20th century. This is then going to be built upon from an even farther left framework, by V. I. Lennon, imperialism in the highest stage of capitalism, writing amidst the first world war, trying to understand and make sense of how the world had become a world in conflict, how these rival empires turn against one another. And, you know, that's one of the fascinating things about this, if you actually look at this and of course, from the, from the left wing internationalist free trade perspective in general, this is exactly what they've been saying from the get go. And that is that it's this expansion of the protectionist empires, you end up with, and yeah, so what are they trying to do? They're trying to expand empires because according to this critique, at least, you know, protectionism creates monopolies, monopolies create inefficient markets at home. This leads to the apparent necessity to search for new markets, to export surplus capital abroad and to exploit raw materials from these newfound colonies to then be used by these industrializing powers back at home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "f7b65811-5b98-46cc-ba30-7848f4ec4e46"
+    },
+    {
+      "start_time": 1178,
+      "end_time": 1232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is how people from across the left wing spectrum are explaining the growth of imperial expansion across the late 19th, early 20th centuries. And in the case of V.I. Lennon and trying to explain the outbreak of the first world war itself. Once these empires, these expanding empires have run out of new colonies to exploit for exporting surplus capital for exploiting raw materials, they finally turn on one another. And so you can actually see these really fascinating connections and commonalities by capitalist critics of the imperial system and Marxist critics of the imperial system. Indeed, in the context of Hobson and Lenin, this is even called the Hobson Lenin thesis, because Lenin is explicitly drawing on these capitalist theories of imperialism to make his own, even more extreme critiques of the system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "5a1a5522-9b3b-4b05-b830-c8a77424ddf3"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So as I understand it, Marc, you have a real resuscitation of Norman Angle in your book. Norman Angle, as you point out, was this incredibly popular writer in the early 20th century who predicted that countries that trade together will not go to war together. And of course, those countries did go to war in World War I and realists, those who have dominated international relations scholarship really in the last 70 years, kind of use Norman Angle as a whipping boy, right? They say, you see these liberal internationalists, these left wing thinkers who believe that if you create a world of cooperation, you won't have war. See how wrong they are, and the world is filled with inevitable conflict and war. That's the realist argument, of course. You're bringing Norman Angle back, though you're saying he was actually more correct than realists have given him credit for. Do I understand that right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "6dfffbf6-8332-480c-b293-732d592f650c"
+    },
+    {
+      "start_time": 1284,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. You know, he's often seen as an early 20th century, Edwardian disciple of Cobdenism. He puts forward this more pragmatic appeal to a businessman's pocketbook with his book, as you point out, the very, very famous and influential, The Great Illusion that gets published in 1910. And that takes the kind of Euro American Left by storm. Norman Angle clubs are getting started all over the place. So he really does pick on a moment here. But if you actually, you know, he spent much of his life actually pushing back against the misunderstandings of it. He intimately understood the growth of political nationalism that was growing across the early 1900s, as well as the economic nationalism of the early 19th century. His, The Great Illusion was not a optimistic call saying that, global, the global, the degree of globalization now means that no wars can happen, it was actually a pessimistic appeal to say that even the winners of a war would lose because the world is so integrated. And I think that's the thing that gets lost along the way, as you point out, by international relations theorists drawing on these early 20th century ideas, boiling him down to a single sentence, it actually has lost the main point, the main thrust of what he was saying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "3849cf63-a153-4df5-acf4-491770266cd4"
+    },
+    {
+      "start_time": 1362,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was trying to warn business and then he was trying to warn, you know, the political right really that this continued nationalism, this continued economic nationalism would leave few if any winners, even those who supposedly would win a war at that point. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "a0b22d85-01b2-4600-b32b-dda89b1b56e5"
+    },
+    {
+      "start_time": 1380,
+      "end_time": 1420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So why was it, Marc, that Franklin Roosevelt and Cordell Hull, his Secretary of State, who often gets forgotten, but gets a lot of attention in your book, why is it that they came to agree with Norman Angle?Why did they buy into this free trade argument in the ways in which their predecessors had not? And why did they buy into it after a world war and during the Great Depression, when you would have expected them to be more economically nationalist as Herbert Hoover, Franklin Roosevelt's predecessor certainly was, what led Roosevelt and Hull to shift in the direction of Cobden and others during the great depression?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "19b09b88-7b44-4862-a775-802185000139"
+    },
+    {
+      "start_time": 1420,
+      "end_time": 1490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm. Yeah, and I mean you can see, you know, one of the things I try to do especially with the first book is that the earliest origins of this and in the late 19th century, so you do see this start to show itself a bit with the two non consecutive administrations of Grover Cleveland in the late 19th century 1885 to 89, 1893 to 97, where you see a noticeable pushback against the Republican empire project. Attempts, failed attempts to create a freer trade system in the United States. Woodrow Wilson goes somewhat in that direction when it comes to free trade. He is a self described disciple of the Manchester school, which is another term for Cobdenism. Although it's not necessarily something that is demonstrated by his foreign policy in, say, the Caribbean region. So yeah, it's really going to be when, when FDR appoints Cordell Hull as secretary of state. And I think it's important again to understand someone like Cordell Hull who got his political start as a 17 year old stump speaker for Grover Cleveland in 1888 amid the great debate over whether the United States would take a free trade path or a protectionist one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "7a14769e-7787-4b33-ae2a-af33e613cc26"
+    },
+    {
+      "start_time": 1490,
+      "end_time": 1515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course the protectionists would win that one. And then of course, Cordell holds lessons that he learned from the first world war really firmly ingrained the fact that he connects free trade with anti imperialism and peace, and he sees the first world war clearly as one that was begun by these economic conflicts, these trade wars that led up to the outbreak of the First World War."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "eb74615b-80df-4bf6-856e-b64a9f2d2355"
+    },
+    {
+      "start_time": 1515,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that, those are lessons he takes, but the question is then, how do FDR and Cordell Hull succeed where their predecessors had failed? And I think you put your finger on it there with Herbert Hoover. The Republican protectionist project that began in the 1860s finally loses the support that it was able to maintain from American laborers through these kind of political debates that dominated the scene for so long. And that's because of the infamous Hawley Smoot, or Smoot Hawley Tariff of 1930. That is this protective tariff that Hoover's administration passes just on the heels of the outbreak of the Great Depression. And it's clear to everybody by 1932, and the presidential elections that this protective tariff had exacerbated and made worse the great depression that had created these trade tensions, shrunk international trade when it needed to be increased. And so FDR and Cordell Hull are able to build on this shift happening within the American body politic to start turning it towards a freer trade direction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Labor Politics"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "b85022af-37dd-4a10-83d9-5a1ea36e79c4"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's exactly what they're going to do. With the Reciprocal Trade Agreements Act, and then, of course, with the creation of what we now associate with, sort of, post 1945 Bretton Woods system, that comes into being in the late 1940s"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "e523e787-3d32-4d55-aefe-cf77948bafea"
+    },
+    {
+      "start_time": 1601,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. And this, as you describe it, becomes a kind of true golden age for free trade, if we might call it that, from the end of World War II until, I don't know, late 1960s, early 1970s, is that correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economic PowerJeremi Suri"
+        }
+      ],
+      "uuid": "2ac8a543-9a93-48e6-8764-1137ab5a1a31"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or at least it could have been. It, was really, actually, when I first started thinking about this way back, you know, 10 or so years ago, that is how I kind of thought that the story was going to progress or at least in that nice, neat way. What I ended up finding, the more I dug into the, around, I guess, right after the end of the Second World War is that, yeah, it does seem from 1945 until 1950, especially, things seem to be going their way. That these supranational organizations are, are able to kind of clamp down a bit at least on nations' predilections for, for protectionism. We have a new, better, stronger supranational structure under the United Nations than they had with the League of Nations. And the left wing free traders that I'm tracing actually have, they actually have a direct line to the State Department. There's a remarkable relationship that develops between Cordell Hull and these left wing free traders."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "e431164d-e4fc-4614-aa9c-5255e04a29eb"
+    },
+    {
+      "start_time": 1674,
+      "end_time": 1721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Young Women's Christian Association is really big on this. But it brings in a broad umbrella of these free trade advocates to support the Roosevelt administration's free trade reforms. And so this is going to lead to, yes, these Bretton Wood, you know, structures, the IMF and so forth, but even more important here is the creation of the general agreement on tariffs and trade in 1947, which Hull is broadly considered to have created. And of course this will become the world trade organization in 1995. So at least the structures of what we associate with multilaterals and with free trade had come into being in the late 1940s and the left wing free traders, you know, I think to a certain extent, plausibly pat themselves on the back for helping to bring it about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "d882e49d-2cb4-45ec-830b-420dc0f99871"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But of course the cold war decolonization, the growth of a right wing free trade tradition that we touched on at the very beginning of this discussion, all of these things are going to start muddying the waters, so to speak, and make the, what seemed like a new freer trade system, much less easy to maintain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "d136f82f-3985-4a1a-89f8-5d3c84d4fd86"
+    },
+    {
+      "start_time": 1741,
+      "end_time": 1770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to me, that's one of the more interesting parts of your overall very interesting book is when you get to neoliberalism and you get to the 1970s and 80s and Margaret Thatcher and Ronald Reagan, many would see them as free traders and maybe even as inheritors of Richard Cobden's ideas, you say, no. You draw a distinction between neoliberals and free trade peace activists. What is the distinction there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "64e9539d-7745-46fc-bcfb-0fb467238935"
+    },
+    {
+      "start_time": 1770,
+      "end_time": 1795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, from the left wing free traders perspective, there's an evolution that happens. So maybe it's a generational evolution that's happening here too. They're much more sympathetic by the 1950s, 1960s, 1970s of the decolonizing world, of what we might call the global South, the G77, these demands for temporary protectionism by these recently decolonized States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "ad5fb25c-db6c-404a-950b-2ddb5fea5733"
+    },
+    {
+      "start_time": 1795,
+      "end_time": 1822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's a great deal of sympathy for this, leads to all sorts of new left wing internationalist movements like the fair trade movement, who are similarly advocating these things and have that similar sympathy for demands from labor, demands from the decolonizing world. So this is going to be different from how these free traders on the right are going to respond to these, international issues, and activists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Labor Politics"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "c6a8a409-b8ef-4217-b606-536ee26c297e"
+    },
+    {
+      "start_time": 1822,
+      "end_time": 1877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so that's one of the big differences here. So, yes, you have Thatcher in the seventies coming onto the political scene in Britain, who's going to slam down a book by Hayek as soon as she walks in and says, you know, this is what we believe. Frederick Hayek, one of the intellectual founding fathers of neoliberalism. And in a similar way, Reagan is going to surround himself with, you know, neoliberal, right wing economists who are extremely distrustful of anti colonial nationalist demands for protectionism. They're increasingly dis trustful of democracy itself, of course of the welfare state, of trade unions, there's really quite key differences here, but I think the two biggest are where these neoliberals are willing to do at the foreign policy realm and, and how they associate free trade with democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Labor Politics"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "ec0c9a21-7ea2-4c95-8aae-822ec7465427"
+    },
+    {
+      "start_time": 1877,
+      "end_time": 1944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the free, the left wing free traders of the book, the main actors in the story closely associate free trade with democratization. And a foreign policy of non interventionism, right? You don't force free trade onto another state unwillingly. This is something that neoliberals 1980s onwards are going to deviate from drastically, even though in many ways they're drawing from the same intellectual wellspring. And so this is where we have the neoliberals who are gonna you know, support Pinochet's Chile, this, you know, dictatorship in Chile and apartheid South Africa, and who are increasingly gonna see democracies, especially democracies from the left, as a threat. An impediment to free trade rather than as an accompaniment to free trade. And so using military interventionism and being suspicious of democratic movements, in the name of free trade, this shows them to be something quite different from the free trade internationalist tradition that I was tracing in previous chapters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "21597861-d434-44f8-a22d-2aec1f5a4600"
+    },
+    {
+      "start_time": 1944,
+      "end_time": 2003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you make the, you make the argument that neoliberalism, as you say, this is from your book, page 218, that neoliberals have effectively co opted free trade as a neo colonial tool. So you are clearly making the case, there's a different version of free trade that's not neo-colonial, that's not mercantilist. As you call the, the moment from 2016 on. What would that be? I mean, one of the real goals of our podcast each week is to try to use history to help uncover alternative pathways. Things we could do today that would be hopeful. So what is the hopeful alternative to the world of US-China market rivalry that often seems to disempower smaller countries and smaller cultures. What's the alternative pathway from the left wing free trade vision that you've excavated so well here, Marc?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        }
+      ],
+      "uuid": "a6579581-6803-41bc-bd7e-eaeb7b3f7bef"
+    },
+    {
+      "start_time": 2003,
+      "end_time": 2053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, great. Really, really, that's a really difficult, but really important question. And maybe we can end it on a positive note if I do this correctly. Yeah, I, so we have these multilateral institutions that, It comes into being precisely to create a more peaceful and interdependent world in the late 1940s. But they increasingly become controlled, taken over by this more right leaning, internationalism of the neoliberals and of multinational corporations within the kind of context of the Milton Cold War. And so this is, I think, the beginning of it. And so because of that too, you also see a lot less of a strict adherence to free trade internationalism, especially once Cordell Hull is no longer in the State Department."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "74a56c4c-1950-4838-98ba-62d4d8519f27"
+    },
+    {
+      "start_time": 2053,
+      "end_time": 2074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so you still start to see, kind of the hangover of this imperialism of economic nationalism that had dictated American foreign policy for so many decades leading up to the Second World War. And you see this most visibly even today with the Cuban embargo, something done under Democratic auspices, but continued under both parties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Structural Drivers of Conlfict"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "2bcafc11-f807-416e-a66a-7154d7f73e0a"
+    },
+    {
+      "start_time": 2074,
+      "end_time": 2147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so in an interesting way, the legacy of the imperialism of economic nationalism in the United States, it's still very, was very much with us even before 2016, even before we ended up electing. an avowedly protectionist Republican president. You know, it was one of those things in 2016 that I was not surprised by at all. And of course, you could point back to most of the history of the Republican party as a party of protectionism, that Trump was by no means an anomaly, but a return to the status quo, from this longer viewpoint. But it was interesting to see how the Democrats from 2020, started just borrowing from and echoing Trump's protectionist platform to the point now that we're going to have, it looks like, a Republican protectionist running for president, and we're going to have a Democratic protectionist running for president in the 2024 elections. And like you say, in the context of trade wars and steel tariffs against the EU, and geopolitical conflict that's being drawn from that, sanctions against a variety of states as well, food embargoes and blockades, and then of course the Cuban embargo itself is still very much a thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "d00b53a8-39af-4f9d-93a8-5b6e6137810f"
+    },
+    {
+      "start_time": 2147,
+      "end_time": 2207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so what remains of the left wing free trade movement has been still fighting this fight. We still have a variety of left wing peace organizations that have been and remain very critical of, say, the U. S. Cuban embargo. We still have organizations like the Fair Trade Movement, which was created in Oxford in 1968 with the Hasselmeyer Declaration, but which was an alternative form of globalization and an alternative form of, ethical free trade as they put it and there's something I'm sure we're all listening here are familiar to a certain extent. But you know, we see the fair trade stamped on our bars of chocolate or our coffee bags, but it actually has a history, that I argue at least, that goes back to the 1840s. And it's also putting forward this idea that we can, you know, can pay a bit more if it means making sure that the things we're buying are not using exploited labor, that people are getting paid a fair wage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "47015644-ccde-4133-9cd6-d1fa950745dc"
+    },
+    {
+      "start_time": 2207,
+      "end_time": 2232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so this alternative globalization, alter globalization, from the left, is still around. It's still prominent, but it is very much on the outs because of all these kind of transformations of the global system we've been touching on. The growing power of neoliberal policies at the top and, the lack of influence that left wing internationals now have over policymaking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "5a1c26a5-3c4d-4cee-af8c-443e0fb60c9d"
+    },
+    {
+      "start_time": 2232,
+      "end_time": 2302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think maybe one way to think about it, and one thing you can draw from this book as a way of going forward here is how the left wingers, the liberal radicals, the socialists, the women's suffragists, the Christian pacifists, they all, by the early 1900s, by around the time of the First World War, came together and were working together in ways that would probably surprise us, especially with our Cold War lenses on, the idea that Marxist internationalists were working alongside capitalists to try to create a more interdependent, peaceful order. That is still a possibility, and maybe that is the only way to revitalize this if you do see the world in a way that these left wing internationals see it. It's through a new coalition form of like minded, dare we say globalists who see the kind of, inward looking, turn towards autarky and trade wars that have become so commonplace now as something that they want to oppose. It was an interesting lesson to be drawn from this book where actually, in surprising ways, there was a really broad left wing coalition that was in many ways successful in working together to overturn the protectionist system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "e0b17106-203d-46d5-a181-0e2a9d66031d"
+    },
+    {
+      "start_time": 2302,
+      "end_time": 2319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just have to ask before we turn to Zachary's thoughts on this, isn't that really what Bill Clinton and Barack Obama were trying to do? You criticize them actually in the book, but wouldn't they identify with the alternative vision you just articulated?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "f94ddc09-1d02-4e1d-ad85-a332bf3fe79f"
+    },
+    {
+      "start_time": 2319,
+      "end_time": 2384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Certainly more so than their Republican counterparts, certainly more so. I, you know, I do try to make the point though, that even still their foreign policy credentials when it comes to military interventionism. In the case of, say, Haiti or, in the context of Clinton, for example, his sanctions against Iraq in the 1990s, these are, you know, these are limiting trait. These are things that the leftwing free traders, the non-interventionists would've been vocally opposed to. But I think it, to a certain extent, they're still there. You can certainly see it in the rhetoric of Clinton, and I think with Obama, perhaps even more so in the policy practices that he was operating under, his attempts to support the Trans Pacific Partnership, despite the critiques from the alt left, that were still critical of too much of an influence for the multinational corporations. And some elements of this certainly still at play within democratic internationalism of Clinton and Obama. I think that's fair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Structural Drivers of Conlflict"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "91e10b0d-046d-4ec7-982c-be8cad9b7ba8"
+    },
+    {
+      "start_time": 2384,
+      "end_time": 2407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary, what are your thoughts on this as someone who cares deeply about international trade and international connections? You're participating in this podcast from Leipzig, Germany, where you're doing some research of your own now, I mean, does Marx history resonate with a vision for where democracy and international affairs can go today?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "db4a60c8-eb6a-4fb7-9c9a-59cb7760bd95"
+    },
+    {
+      "start_time": 2407,
+      "end_time": 2480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it does. I think it's also the last question in particular, last answer, was a really important reminder that oftentimes the questions that need to be asked or are not necessarily, like, ones of ideology, but of whose interests certain policies are serving. I think the sort of description of how the, at least the ages of free trade, was overtaken by neoliberalism in the 70s and 80s is a really important lesson about the importance of keeping in mind whose interests our policies serve, because, looking at it on paper, it can seem that the neoliberal policies are of the same tradition, but, in reality they were serving very different interests. And I think also this vision of left wing free trade is something that we should all take very seriously, especially at a moment when our, when the sort of liberal international institutions, which this movement created or the descendants of this movement created after World War II seem most threatened. And certainly when our, when the sort of free trade world order that developed after the end of the Cold War seems most threatened as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "3493cfcc-3fcd-49f1-b48d-0d988cba7d90"
+    },
+    {
+      "start_time": 2480,
+      "end_time": 2520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I think that's really well said, Zachary. And one thing, Marc, I've been thinking about as I was re-reading your book, and as I've been listening to your really thoughtful and inspiring comments today, you know, we are entering a moment where it does seem that protectionism is the main valence of politics. As you say, both presidential candidates in the U. S. this year will be running as protectionists, as advocates of industrial policy of one kind or another. Certainly that's the way China operates. The E. U. Has been moving more in that in that direction, and of course, we're witnessing wars, economic nationalist wars across the world from the Middle East to Ukraine and Russia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warfare and Scoiety"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "aaebdb6b-dead-4028-a384-1396dba46bcb"
+    },
+    {
+      "start_time": 2520,
+      "end_time": 2575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But as all that's happening, there is a desire to move beyond this moment in a search for an alternative. And especially in a world that's torn by inequalities and warfare, this vision of interdependence, of trade, of openness, of, building prosperity, shared prosperity through open connections that are not militarized and mediated by international institutions. That actually might become a more compelling vision. Much of the discussion around the International Criminal Court is in many ways a discussion about this. And so we might be on the cusp, just as we were in the late 1920s, we might be on the cusp again of another free trade international peace activist moment. That would seem to be the hopeful democratic message in much of this. Do you agree with that Marc?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "24b738ef-f054-4a17-b627-5ff3052479b9"
+    },
+    {
+      "start_time": 2575,
+      "end_time": 2612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You both put it so, so well as far as what might be possible hereafter. And of course, if I were to take maybe even a more cynical approach at looking back to the successes, not just of the FDR and 1930s, but, you know, why it was that the free traders succeeded in Britain in the 1840s. And, you know, for them it connected to peace and, but I think the prosperity element, I think, is the other important thing here too. And I think for maybe a lot more people, the connection between interdependence and peace is going to be less important than what it means for their pocketbooks.\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "ea071284-1ff6-4a8e-87e7-44bc3268c950"
+    },
+    {
+      "start_time": 2612,
+      "end_time": 2642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, you know, the increase of prices that is becoming, it's hurting the poorest among us even more than anybody else. You know, I wonder if that prosperity argument that often comes with free trade, lower prices for goods, potentially something really important to a lot of the actors in my book, especially the women's suffragists ending world hunger by the equitable distribution of trade, of food through, through a free trade system, that also I think might resonate or perhaps might resonate with the even larger group."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "d16db359-583d-4f18-a7ef-4f8ce850d491"
+    },
+    {
+      "start_time": 2642,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I think that's very well said, Marc, and a very nice connection to one of the central issues of our world today, which is the inequalities in food and nutritional access across, within countries and across countries. Of course, this brings us full circle, as always, to, in some ways, the inspiration for our podcast, which is Franklin Roosevelt. We started this podcast with his inspiration for how each generation writes a new chapter in the book of democracy. And, as always, the new chapters build on old chapters. Chapters that might have been forgotten before. Marc, you have in your book, Pax Economica, that I recommend to all of our listeners, you have reminded us of such an important chapter in the evolution of Anglo American and international democracy in the 19th and 20th centuries. A chapter that seems more relevant than ever in this neo mercantilist age, as you call it. Thank you so much for joining us this week, Marc, and sharing your insights with us. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "674dd5c6-961c-47d1-a192-78f60b0629f6"
+    },
+    {
+      "start_time": 2700,
+      "end_time": 2704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much again for having me and for this great conversation. It's a pleasure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Marc Palen"
+        }
+      ],
+      "uuid": "2bedea19-795a-4308-af94-879e2a5bf216"
+    },
+    {
+      "start_time": 2704,
+      "end_time": 2721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Zachary, thank you for your poem. Your image of us sailing is still very prominent in my mind throughout our conversation. And thank you, of course, most of all, to our loyal listeners for joining us for this episode of This Is Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "c9caf472-20da-4379-a9d6-0814b91b82e8"
+    },
+    {
+      "start_time": 2721,
+      "end_time": 2754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts ITS Development Studio. And the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Jerez Codini. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and Stitcher. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "59be4ad8-cb02-4758-851b-69d658a5485f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "42819409-140a-4740-93c6-22c173104708",
+  "source_id": "8fdb5454-da92-42bd-a9b4-c12619dfeb09"
+}
