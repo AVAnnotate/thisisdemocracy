@@ -1239,10 +1239,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Diplomacy and Peacebuilidng"
-        },
-        {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
         },
@@ -1253,6 +1249,10 @@
         {
           "category": "Speakers",
           "tag": "Salim Yaqub"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
         }
       ],
       "uuid": "fe30aeca-1f55-4030-b3f6-206aec1d6093"
