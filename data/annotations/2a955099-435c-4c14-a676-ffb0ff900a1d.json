@@ -1,5 +1,1761 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is democracy, a podcast about the people of the United States. A podcast about citizenship, about engaging with politics and the world around you. A podcast about educating yourself on today's important issues and how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "44631c6b-5635-402d-8088-475e94141ec5"
+    },
+    {
+      "start_time": 25,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of This is Democracy. Today, we are joined by an author, professor, scholar of Barbara Jordan's life. Barbara Jordan, as we'll discuss, was a pioneering legislator and pioneering politician and civil rights activist in the United States. She left an incredible legacy, and we're fortunate today to have an opportunity to talk about Barbara Jordan and her legacy, and what that legacy means in the tumultuous world we live in now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "2920e26e-f941-4104-a9d0-76315726559e"
+    },
+    {
+      "start_time": 58,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're going to discuss Barbara Jordan's life and legacy with Professor Mary Ellen Curtin. Mary Ellen Curtin is an associate professor in the Department of Critical Race, Gender and Culture studies and director of American Studies at American University in Washington, DC, which has a beautiful campus. It's a university I always enjoy visiting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "9c51075c-1baa-4c8a-8052-01e8b3596aba"
+    },
+    {
+      "start_time": 78,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mary Ellen is the author of two books, the book she wrote a number of years ago Black Prisoners and Their World Alabama, 1865-1900 really a pioneering book looking at convict labor and the use of convict labor in the justice and political system in Alabama and much of the South during the second half of the 19th century, and most recently, the book we're going to discuss today, the book I hope everyone will purchase and read, is called She Changed the Nation: Barbara Jordan's Life and Legacy in Black Politics. It's hot off the presses, and as soon as it came out, I grabbed a copy and made sure to read it. And it's really an extraordinary book about Barbara Jordan and her life. Mary Ellen, thank you for joining us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        }
+      ],
+      "uuid": "772d8cd4-0f4b-43fe-8c34-f0a37041dd32"
+    },
+    {
+      "start_time": 123,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, thank you for having me. Jeremi, it's such a pleasure to be here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "b75d8b7d-dafd-4e14-a2af-bcc97812a8d5"
+    },
+    {
+      "start_time": 127,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before we get into our discussion of Barbara Jordan with Mary Ellen Curtin, we have, of course, Mr. Zachary Suri's scene setting poem. What's the title of your poem today, Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "f8f52beb-7c0c-4e3c-9ce3-5592474ba2db"
+    },
+    {
+      "start_time": 139,
+      "end_time": 8400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Trailblazer.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "914790e9-3322-4a19-9499-84d1ab72f91b"
+    },
+    {
+      "start_time": 140,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's hear it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "17311537-d1e1-4682-90f8-f7e4227efb1f"
+    },
+    {
+      "start_time": 142,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The one who breaks the ceiling, the one who's first to cross the line, they must make their own rhythm. They must beat to their own time. \n They find themselves quite often alone or in the dust. They find themselves quite often lest to wallow or to rust.\n And so they must know more than anyone else to take their own story right off of the shelf. \n The one who breaks the ceiling as glass shattered in their eyes, the one who makes the first move must break through all the lies. \n They find themselves quite often defeated or ignored. They find themselves quite often hated and abhorred.\n And so they must fight, more than anything still to make their way over the widening hill.\n And sometimes they fail, and sometimes they will, but always, they face it with a radical grin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "661e8f74-c235-4763-ae27-06cf425f5ae2"
+    },
+    {
+      "start_time": 196,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love that closing line. Radical grin. Mary Ellen, I saw you reacting to the poem. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "d18de660-325c-417b-a45f-ee64d4f7a11a"
+    },
+    {
+      "start_time": 202,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beautiful, beautiful. And I think you capture the complexities, the nuances, the contradictions of being the first. It's not all glory, for sure. Thank you so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "34f4fb24-fb2f-4a17-bff6-7fa1d9daf141"
+    },
+    {
+      "start_time": 215,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ee0edf1e-896d-4867-9a2f-0c85bcf113ab"
+    },
+    {
+      "start_time": 217,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's your poem about, Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "907f92e1-a71e-4cf7-b5b5-0b70c952a927"
+    },
+    {
+      "start_time": 219,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My poem is about, as she just said, the contradictions and the nuances of having to be the first and not just the personal toll it takes on someone, but sort of almost impossible expectations that one has to (yes, yes) the level of resiliency and hope that one has to display."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "09ab664b-aa2a-4c64-9e65-3dda810f098e"
+    },
+    {
+      "start_time": 239,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, well said. Well said. Mary Ellen, why did you write this book about Barbara Jordan and all the things she did as the first?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "fbb6a11c-0f2e-4308-81a7-01697a0addab"
+    },
+    {
+      "start_time": 247,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's a good question. So I had just been finishing my first book, and I'm glad I wrote, even though the the topics are quite different in a way, where they come together is that I'm a historian of the African American, Black experience, and so in my first book, I really try and elevate the voices and experience of people who were incarcerated. And that was, you know, rather than just looking at the system from the top down, which, of course, you have to understand, but to do everything I could to try and recover those voices, the letters, the pardon papers, anything that could really shed light on how the men and women themselves who were incarcerated were experiencing forced labor, and their resiliency, and how they tried to overcome and surpass such a living in such a terrible system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        }
+      ],
+      "uuid": "33bb15d6-31c3-43a1-898c-1e976fb1d120"
+    },
+    {
+      "start_time": 299,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I was finishing that, and Barbara Jordan had just died, actually, and something in me just really stirred, because I remembered her from when I was a teenager in the 1970s. And I just thought, Oh, my goodness, you know what happened to her? I knew, of course, about her, but you know, I hadn't heard about her for, you know, a while, and it seemed to me, in retrospect, that she was just kind of out there by herself. Here I was in graduate, had been in graduate school, had been studying Black history, civil rights, and she was barely mentioned, you know, just kind of a footnote as just a first, but nothing else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "f699d6e5-ae1f-4edf-9803-818dd7d4f045"
+    },
+    {
+      "start_time": 343,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I just thought, there has to be some connection here between this amazing woman and all these other movements of the time. But I just didn't know what it was. I didn't know how she fit into the broader struggle for Black freedom and for women's rights. And so I thought, you know, I want to find that out. So that really stirred a question in me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "8da8b317-9330-401a-91b9-49063736d16a"
+    },
+    {
+      "start_time": 363,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when I was researching this, really my training in Black history pushed me to look at the whole context of her community and to raise up those Black voices that I think had been left out if we just look at her as an individual, right, rather than the product of a community, a place, a time. So that's one of the things I try and capture in the book, is that context."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "64687164-29e6-4e75-92e7-cb982d914945"
+    },
+    {
+      "start_time": 387,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you do an extraordinary job with that. I learned so much about Houston and so much about what it was like to be a lawyer, as Barbara Jordan was from 1959 until the mid 1960s and then what it was like to run races in Houston and to lose races, as she did her first few times through. There's so many things in which she was the first, (correct) just as Zachary indicated in his poem, she was one of only three Black women, you say, who became a lawyer in Texas in 1959, one of only three Black women. Then she was the first African American woman in the Texas Senate, in the state legislature, and then the first African American woman from the South in the US Congress. And that's when she was elected in 1972 when I was born. It's not that long ago. (No, no, it isn't. It is not.) What What made this moment that she was in such a moment of change?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "36411641-78e5-40ff-a572-a2fcbfaad97a"
+    },
+    {
+      "start_time": 443,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a great question. Well, I think it was a sort of a long time coming, and that's why half of the book is really about Houston and getting to that point of being elected to the Texas Legislature. You know, I really think it's important, as you say, Jeremi, to sort of go back and think about where we were in 1960 when it comes to electoral politics. There were no African Americans in the South who were serving in any state legislature, none. So we're really starting from zero, you know, at that point, and also the Democratic Party in the South was still largely a party run by conservatives. It's a party that does not welcome Black participation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        }
+      ],
+      "uuid": "36ff3523-e3d9-4ae8-9ef9-aea8b7139494"
+    },
+    {
+      "start_time": 483,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Houston, however, is a bit of an outlier. This is why I think she was uniquely poised to make this stand and to succeed. It's because Houston had been a hotbed of activism for Black voting, and this goes back to the 1940s and I described this movement that was led by her Minister, the Reverend Albert Lucas, who worked with Thurgood Marshall. Reverend Lucas was head of the statewide NAACP, and he and Marshall, together really forged not just a court case, but a social movement behind what the case that became, Smith V. Allwright, and so Lucas was one of the first civil rights leaders who used the church to educate ordinary Black people about political issues and to use the pulpit as a means of political education and political mobilization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "cd0e0843-f5bb-4e8b-873c-e9011309e5bd"
+    },
+    {
+      "start_time": 535,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we're going to see this later, of course, in the what we think of as Civil Rights Movement. But he was doing this in the 1940s and it had an impact. And so after this case, which got rid of one of the most egregious forms of disfranchisement, the White primary, Black citizens in Houston were then able to participate in those primary elections from the mid 40s through, you know, the 50s and the 60s, and they very gradually, are having an impact on that party politics. And they join in with, eventually in the Kennedy campaign, which extraordinary. Kennedy won Texas in 1960 so (just barely) yes, just barely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "7a5ba611-a86f-499d-8ecf-b078d3e5f47c"
+    },
+    {
+      "start_time": 580,
+      "end_time": 608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But voter registration among, and Barbara Jordan was a big part of that, in as a young lawyer coming back to Houston and being part of a voter registration campaign. So she's very proud of her role in that, and then continues to work with this alliance of liberals, late White liberals and labor leaders they call themselves the Democratic coalition in Houston. It's the Harris County Democrats, and they are the liberals who are opposed to the conservative control of the Democratic Party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "be55573b-1844-4bef-bf2e-cc667b6d4875"
+    },
+    {
+      "start_time": 608,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So as you can see, it's a kind of constellation of forces. She's an extraordinary individual. But there's a movement among, now, you have Black voters joining forces with liberals and labor to try and create a coalition to elect more liberal Democrats. It's a one party state, after all, (right, right) into office. So when Jordan is running now, okay, the obstacle of the White primary has been removed. But the there are other obstacles to voting. There are other forms of disfranchisement that still exist: the poll tax, for example. But the most terrible one for her, from her perspective, was malapportionment. This is before the Voting Rights Act, and so you have a terribly malapportioned Texas State Legislature. And in her case, the Senate was an institution where all of Houston with a million people had one senator, and then you had rural districts with only a few 1000 people, had a senator too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "e003b3fe-bd97-42b6-8f55-9ea8e0cb95b6"
+    },
+    {
+      "start_time": 672,
+      "end_time": 739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so because of a series of court cases, beginning with Baker V. Carr, liberals and other activists brought lawsuits that challenge the malapportionment and forced a redistricting of the Texas Senate, and eventually the House, but that comes later. So when Jordan is running in '62 she loses. She loses again in '64. And really this is a result of not just so much losing votes, but also a reluctance of people, of Whites, to vote for a Black woman candidate, and then not having an appropriate district to run in. When she gets that district in 1966, finally Houston has four senators now. So this is new. And the way the lines are drawn, the way it was explained to me, it was, it was not drawn with her in mind. That suit was brought to bring greater power to labor and to urban populations, but the way the district was drawn, it was just simply that it was slightly a Black majority, just not quite even, I would say, a Black majority, but it was favorable to her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "759caf4f-76b5-42da-8e04-13c684ea0590"
+    },
+    {
+      "start_time": 739,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She still had run in a primary race against a White liberal male who actually, you know, said some very terrible things about her, and it was a real struggle for her to win that race against somebody who should have been in her corner. So there's many layers of disfranchisement here (yes) and racism, as Zachary pointed out, that she faced when she triumphed in '66 and the biggest thing was at the end was, will you accept a Black woman as your leader? Will you accept a Black woman as a political leader and candidate? And she really had to push that issue. No one handed that to her. She had to struggle for everything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "f7dd2357-d8de-48b4-a3ea-c72bddc49b57"
+    },
+    {
+      "start_time": 781,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow, wow. She was a trailblazer. (she certainly was, yes) Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5660b856-60c2-4ade-a4a7-a7e99b0cc5fd"
+    },
+    {
+      "start_time": 786,
+      "end_time": 801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was her experience like in the state legislature in the 1960s, coming in on the heels of this historic civil rights moment? What was the Texas State Legislature like for a Black woman in the late 1960s?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "67f91e82-0fca-4e48-810f-7b33c15f7cf8"
+    },
+    {
+      "start_time": 801,
+      "end_time": 852,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, my goodness, Zachary, you ask the best questions. All right. Those, as she put it, those men did not want her there, okay, however, the Texas Legislature is a small institution. Has 31 people. On one hand, you could say she did have allies because of this redistricting. There were other liberals that she had worked with as part of this coalition who were there with her. So in theory, you have a group of about 11 who could perhaps block terrible legislation and even find some way to promote good legislation, you know, progressive legislation, especially around the issue of taxation, fairer taxation. This had been, long been, a liberal goal in Texas, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "c7b5e829-9699-497f-b5f7-ea06aee3a439"
+    },
+    {
+      "start_time": 852,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But she faced all kinds of what we would call microaggressions. Now we use the term microaggressions. At the time it would just be, you know, people saying racist things to her unthinkingly, right? So part of this is that she is accepted. She knows many of the liberals in her coalition, and so among them, she's accepted. And yet there is, if you look at the journalism of the time, there's clearly a lot of very racist things that are said about her, either behind her back, and she is also placed in very, unlike Hughes, very sort of uncomfortable social situations where she's forced to kind of socialize with with people who are not used to dealing with a Black woman as an equal or a peer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        }
+      ],
+      "uuid": "fe98d7e4-7382-4158-9f59-889d439da848"
+    },
+    {
+      "start_time": 899,
+      "end_time": 942,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She brings out her guitar quite often, and she uses this as a kind of armor and and icebreaker, because people all know, you know, there's a Texas culture of songs, and this is one way she kind of establishes relationships with people. Jordan is a person who wants to establish relationships, and with friends and foes. She understands that to be effective, she has to learn the rules of the Senate and build relationships with people in the Senate, and so I think it's a, it's an important learning experience for her. She's trying to forge her own way. She understands that she wants to gain the respect of these men, both because she feels that is the way forward to efficacy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        }
+      ],
+      "uuid": "37616cb2-c95c-495e-a482-e42dabf133ad"
+    },
+    {
+      "start_time": 942,
+      "end_time": 984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time, there's a lot of pressure on the outside from other liberals who say, if you adopt this approach, that means you are selling out. That means you're not enough of a liberal. And I think you know, she doesn't see that as an especially productive way to be. So she does forge her own way, which is about building relationships. But I don't think, from looking at all the evidence, that she ever sacrificed an issue, that she ever caved in on an issue, I think she's feeling her way and trying to figure out the best way that she can be effective, and I think she is effective to a certain extent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        }
+      ],
+      "uuid": "a62a002a-3496-4a12-bd8b-53104ad62fbb"
+    },
+    {
+      "start_time": 984,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She does also suffer some pretty bad failures, and one I describe has to do with a corporate profits tax which almost passes and then fails by one vote, which was not her vote, by the way. So I think there's a lot of misconceptions about her time here in the Texas Senate that emphasize sort of her as part of a system. But what I try and do is draw out the nuance of saying no, I think she's just trying to find her way and also is effective and does make some important stands while she's a legislator and continues to be part of a larger struggle for Black freedom. She's involved in all sorts of issues outside of Texas at this time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "89f7a30a-57d6-45e9-9d47-98a8851be3ac"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's interesting because one of the points you make so well in the book, and you make it repeatedly, is that there's a civil rights agenda that involves working in and through the system. That those who are marching in the streets, who Barbara Jordan certainly sympathizes with and sometimes joins, that's one approach, and a valuable and necessary approach. But your argument is that getting into the system and working through the system is absolutely crucial. Do you want to say more about that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "7bb6f127-2a91-4599-8e2d-11267bf5a93b"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do. I do. Thank you, Jeremi. Yeah, this is, and I don't think it's just her, like, this is when the movement is moving from the streets to the State House. This is Bayard Rustin's vision, right? From protest to politics. How can we be effective in making the ideals of the Civil Rights Movement real? And this was her quest, (yes) you know, this was really her goal, (yes) to do that. And no one knew how to do it, right? It hadn't been done before. (yes) And this is, you know, Rustin is good, like in theory, all of this coalition should work, but as we see over time, coalitions are complicated and messy, and everyone has their own agenda. How do you get people to work together who don't really have a long history and sometimes their goals clash, so people have to give and take, (right, right) and it's a hard thing. And, so, but this, I do think that she, and many others, Julian Bond, for example, we forget about him running and succeeding in the Georgia State Legislature in 1965. (right, right)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "ab383f7e-4eed-4dd2-82f7-628534343753"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's, this was part of thinking about the future. Where do we go from here? And you can't mandate interracial democracy. You know, the Voting Rights Act can make things, can correct, you know, the malapportionment, can correct the history of disfranchisement, but it can't mandate elections of Black politicians. That has to come from the ground up, and it really takes people with guts and ambition to do that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        }
+      ],
+      "uuid": "4e779932-6968-4c7c-94af-760308bab590"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, well said, so well said. So, what makes Barbara Jordan famous is her election to Congress, of course, in 1972, the first Black woman elected to Congress from the entire South. And then, of course, during the Watergate Hearings, which you describe in here, are her extraordinary speech about the ideals of the Constitution and why presidents need to be held to the law, which is, you know, a little relevant for today, as well, explain that evolution in Barbara Jordan, to me, it's a fascinating part of this book."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "c2d3ab15-ccb2-4e9f-a36c-95d7ba5851e6"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much. Well, I think again, we know her for this speech. I also think she played an important role behind the scenes in the Judiciary Committee. Again, this was sort of the Texas Senate. Now, in this committee, she's one of 37 as opposed to one of 31. And the goal here, again, working with her chair, Peter Rodino, is to create a consensus, bipartisan consensus. So again, this means being willing to talk with people who disagree with you, and trying to persuade them, or at least stop the negative effects of others, like, I think she's always trying to neutralize Charles Wiggins from California, who was a big Nixon defender, and she's always trying to intervene and neutralize his influence among the more concerned, you know, the men in the middle. They were called the men in the middle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "92f54899-d56c-40a1-abf5-b68c3076e378"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there's that going on for months and months behind closed doors and then and finally, you know, the public has no idea what's been going on behind closed doors of the Judiciary Committee. And so you have the Summer of '74 when finally the committee is going to lay out its argument for impeachment and decide how to frame their articles for impeachment, given what John Doerr has laid out. John Doerr laid out 38 enormous number of possibilities, but they only, but they ended up concentrating on just a few. And these had to do with, as you said, the abuse of power. And I think, you know, there's a reason why she hones in on that. And I think the way that she frames the speech, however, is extremely important."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "9443911f-70ec-4d55-8e9c-67ff93902e67"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We all know that part where she says, 'My faith in the Constitution is whole; it is complete; It is total.' \"My faith in the Constitution is whole; it is complete; It is total. And I am not going to sit here and be an idle spectator to the diminution, the subversion, the destruction of the Constitution.\" But what we don't remember is what she said before that line where she says, 'when this document was completed in 1787, I was not included, but now through the process...' And then she lays out all the ways that the Constitution can be amended to, right, Because through that process of judicial review, right, and additions, I am now included in \"We the People.\" And here she's talking specifically about the 14th Amendment, the 15th Amendment, and the Voting Rights Act. So now I am included in the protection of this great document, and that is why it is so important that I fight for it, and that is why I believe in it so completely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Origins of Democracy"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "7f5c3d1b-7e1f-4697-b260-13ebe6140ef1"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that first part often gets left out, as though she is just, you know, blindly following some, you know, great American Dream, which she does believe in, by the way, but she also understands America's history of racism and and how important it has been to change and amend that Constitution to protect the rights of Black people. This is what gives her a great stake in this document. And this is why she's so angry at how Richard Nixon has defiled the Constitution."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        }
+      ],
+      "uuid": "11e395b9-3dd9-45f7-b315-71bce3e877d7"
+    },
+    {
+      "start_time": 1368,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the combination, Mary Ellen, of faith in the system, articulateness, the way she speaks, that voice, as you call it, right, that deep, resonant voice with the high minded articulation. It reminds me so much, as I think about it, of someone else we talked to a few months ago, Ruth Simmons, who also comes from this part of Texas, grew up in the Fifth Ward of Houston, in part after her family moved from a rural sharecropping area. And Ruth kind of sounds like like Barbara Jordan, tell us about the voice, about the way of carrying oneself? Your book is wonderful on that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "54947fe4-25e8-44a8-8312-25a15120c2a5"
+    },
+    {
+      "start_time": 1409,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much. Well, they went to the same high school. They both went to Phyllis Wheatley High School. I think for Barbara Jordan, this is very much, her voice is a Black voice. (totally) I mean, it comes from her family, the institutions of this, of her training as a debater, to be sure, the church that she grew up listening to as a young girl, Reverend Lucas. But it even goes back further than that, because everyone around her said 'she always talked like that.' And I think her grandfather, who was the first person in her life, her Grandpa Patten, as she called him, who made her recite for him. And in one interview, somebody said, well, her first, one of her first biographers said, 'How did you learn to talk like that?' and she said, 'at my grandfather's knee.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "136ca476-74cd-4a01-a9ce-954463899063"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he is a very interesting figure, a very much a self-taught person who had a very tragic life, who had been incarcerated, but who came back from that incarceration and really embraced her as a sort of protege. And so as a very young child, when she said, 'other people weren't really paying much attention to me, I was the youngest of three girls.' He really took a lot of time to be with her, talk to her, inspire her, and he made her recite to him. And then after that, her father wants to start his own church and realizes her talent as a young girl, as a speaker, and so with her, one of her sisters, she is also singing. I think a lot of the power of her voice comes from learning how to sing and and to perform before an audience and bring in an audience, tell a story through song, and also reciting for her father's church. So by the time she gets to high school, she is already quite comfortable with this kind of use of her voice, and then she gets involved in speech and debate and develops it even further. But it's through these Black institutions and her Black family that the value, her value as a speaker, as a speaker is acknowledged and recognized and supported."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "f8ed247f-cb73-444d-823a-f93ab07703fe"
+    },
+    {
+      "start_time": 1545,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's such an important part of the Civil Rights Movement, if you think of again the high diction of Martin Luther King Jr, and you think about even Malcolm X in his own way, right? I mean, there's a way in which these activists are taking the English language, sort of as Churchill says, and sending it to war for them, right? (Mh-hm) Using it to articulate and persuade and motivate people, yes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "efc6f46c-d71c-41a8-8323-3db8d75f11fb"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely they are. And for her, especially, this is what she brings to the nation, you know, a way she's able to crystallize what does the Democratic Party stand for? (yes) Which she does in the '76 speech at Madison Square Garden. Why should Richard Nixon be impeached? She has a real gift for distilling complicated ideas into a nutshell (yes) and to make them accessible to a wide audience. And I think she that is from the Black church. You know, that is what a minister is supposed to do, a good one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "9bd90d85-f51d-4ce8-a019-0b03ad2a82b3"
+    },
+    {
+      "start_time": 1596,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also, you have to make sure that people are responding to you. You're very aware of your audience, and she is always very aware of her audience. Giving a speech is not the same as reading out a lecture. It's a relationship. And that is something that has to be, if you don't realize that from early on, it's not going to come natural to you. And this is why you know at that convention, you know, John Glenn, if you're just reading a speech, (yes) you're not thinking of the audience as something that you are building a relationship with over time. It's just not going to fall right. It's not going to feel the same. And she really has that sense of what public speaking is truly about. (Zachary?)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "07fee9e0-ed5f-411a-b62f-48e4a1f4e590"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How was Barbara Jordan viewed at the time? How is she perceived, in particular, by White political actors and and White politicians? You spoke about her oratory and the way in which she was able to articulate the Democratic Party position on Nixon, but how was she seen by White voters around the country. How was she perceived as a politician?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "90e09dc5-f7ff-4eeb-8ef0-448123e5d54f"
+    },
+    {
+      "start_time": 1664,
+      "end_time": 1701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, that's, that's such a great question. Well, I think on one hand, there's always many hands. On one hand, she is admired, greatly admired and lauded. So when you have these polls like, what woman could you see as president? For example, she's at the top of those polls (Really? Really? Wow) by Red Book magazine. What could you see on the Supreme Court? She's at the top of those polls. And many people, kind of, you know, they it, she just makes it sort of look easy, like, oh, this is the next step, you know, in terms of women's progress in politics and Black women's progress in politics. I think on one, on one hand, she's greatly admired."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "6cfdb5da-6c26-4126-96ad-6c32aefef8b5"
+    },
+    {
+      "start_time": 1701,
+      "end_time": 1756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other hand, I think there are a lot of tensions, lingering tensions and resentments out of Houston and out of Austin, liberals who are never really trusting of her. They see her still as someone who is dealing with the enemy, you know, making deals with the other side. They don't understand some of her tactics, and she isn't really good on explaining to people like, okay, I'm gonna, this is, this is how I'm operating. Because politicians just don't do that. I think that, how can I put this that she has learned some skills as a politician that are hard to explain to people who are not in those shoes. So you don't always say what you think. (yeah) Now, you're a poker player. I mean, there's, she played poker. I mean, this is the way you do it. You, you do have to make agreements."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "913245b2-f308-4f94-abde-64a8d4de63da"
+    },
+    {
+      "start_time": 1756,
+      "end_time": 1828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, for example, with Robert Byrd, she Introduces him at a party convention, at a mini convention (powerful senator from West Virginia) correct, who is going to play a very important role in the Voting Rights Act extension, she develops a kind of not, it's not a quid pro quo. It's never that bald, you know, but it's an understanding (yes) that, hey, here's somebody who represents the growing Black vote. This is the other thing that Jordan is never just about herself. A lot of her power, the perception of her power, comes from what she represents, which is with the Voting Rights Act, more and more Black people are registering to vote, and they're participating in primaries. And this is a new thing that Democratic, White Democratic politicians have to now take account of and Jordan is somebody who can explain this to them. (yes, yes) So, in terms of how she's perceived, I think it's quite mixed, actually, on one hand, the public perceives her very positively. On the other hand, people within Houston are still, and Austin, are still quite perhaps puzzled about how she was able to go so far so fast, and they are suspicious of her relationship with the power structure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        }
+      ],
+      "uuid": "8516234e-2ef2-4284-a8c2-070c27e817ec"
+    },
+    {
+      "start_time": 1828,
+      "end_time": 1855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Your book makes the case so well that she's not only a trailblazer, but that she actually provides some of the tools that those who come after her will use that people like AOC and various others will draw on from her. For today, for this moment we're in today, which is such a difficult time, especially for the ideals of Barbara Jordan, what does she offer us today?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "ff5f5fed-0456-4425-8c51-c5ee2a21077c"
+    },
+    {
+      "start_time": 1855,
+      "end_time": 1881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm. Well, she always acknowledged, and you can see this in her testimony against Robert Bork, for example. She always acknowledged the importance of court cases and protection of Black voting for the success of Black politicians. This was one reason she was so against Robert Bork's confirmation (Yes) to the Supreme Court (Yes) because he had said he had opposed those cases. He didn't think Baker v. Carr had been properly decided, et cetera. And she, that just appalled her (Mm-hmm) because she said, 'Well, if, if his way of thinking had persisted, I would not be here.' Right. 'I would never have been able to run and to win.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "8634e84a-aeb0-424a-988f-c4b52f236cd4"
+    },
+    {
+      "start_time": 1881,
+      "end_time": 1923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so she, she just said the Supreme Court has to protect individual rights, has to protect this right to privacy, has to protect Black voting rights. And so that, I think, is an important thing to remember and to understand. As much as we applaud her as a great individual, and even other Black politicians that we applaud as great individuals, to understand that they stood on the shoulders of those really important Supreme Court decisions and the movement to make those, that made those decisions part of our national fabric."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        }
+      ],
+      "uuid": "8253dd5d-29fe-4cd9-9bb1-2fd6f0c892a8"
+    },
+    {
+      "start_time": 1923,
+      "end_time": 1951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now we're suffering a pushback against those decisions, and there's gonna be some, uh, uh, consequences to that, that extraordinary people are gonna, you know, even, like, you can have a lot of Black voting, but if the vote is not made meaningful, right, (Yes) through fair districting and other methods that were used to move things along after the Civil Rights Movement, there's terrible political consequences for our system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        }
+      ],
+      "uuid": "6e3aa021-7063-4d1d-a7d6-5d94ee9331eb"
+    },
+    {
+      "start_time": 1951,
+      "end_time": 1982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I also think, though, that she believed in coalition politics. And, now we're hearing all kinds of criticisms about the party and, and perhaps, you know, there is gonna be a realignment, and a reckoning about what it means to be in a coalition. I think this is something that she and Shirley Chisholm and many others were always grappling with, and you can never really resolve, but it has to be faced head-on. So I think that's one thing she would say, too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        }
+      ],
+      "uuid": "aa9d1678-5850-4a7b-b5a2-f9a9db5a8886"
+    },
+    {
+      "start_time": 1982,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think she would tell the Democratic Party today that they need to reach out to different voters in different ways?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ffea9da5-0f7e-4f35-8f1a-95102b62c63a"
+    },
+    {
+      "start_time": 1988,
+      "end_time": 2039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably. I mean, I think she is a realist in that she would say it's very important to look at, you know, the evidence. From my mind, thinking about this, again, I don't know how you overcome, though, these Supreme Court decisions that have weakened the Voting Rights Act (yeah) and have really led to a very strange phenomena where you have places like North Carolina voting for a Democratic governor, but then they're so, but then you have overwhelmingly conservative representation in Congress, right? (Yes, yes.) Because of redistricting. How do you fix, I don't know how you fix that. I don't know. I mean, I just don't know. But I think those are the kinds of things that we really need to look closely at: how can we overcome that weakness in (right, right) in the power structure? (Right.)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        }
+      ],
+      "uuid": "27c043ef-9f88-482d-9e8d-11bdb53d60db"
+    },
+    {
+      "start_time": 2039,
+      "end_time": 2064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's so wonderful about your book, among many things, Mary Ellen, is that you deal with both the structural factors and the role of an individual. And you show that Barbara Jordan was an extraordinary speaker, thinker, coalition builder, a larger than life personality that allowed her to transform our politics, but she did it by strategically taking advantage of changes in her time. And I think that's the lesson, isn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "61b5cf6f-46ee-4b91-b633-e3a56b6e6542"
+    },
+    {
+      "start_time": 2064,
+      "end_time": 2091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is the lesson. And I would add one thing, again, that makes her extraordinary, is that not only could she mobilize Black voters and people who agreed with her, she was also really good at talking to people who had not experienced oppression (yes) and making them understand it. So she could speak to conservative White audiences, as she did time and time again in Texas, editors, White elites, and persuade them that it was in their interest to support change."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "12be3e1f-87f6-4527-aeac-a1e2ea861259"
+    },
+    {
+      "start_time": 2091,
+      "end_time": 2101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's extraordinary. That's extraordinary. Zachary, as we close, do you think Barbara Jordan's legacy, can be inspiring for your generation?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "7ef7645c-9fed-4ee1-bac8-510967656ced"
+    },
+    {
+      "start_time": 2101,
+      "end_time": 2131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think so. I think certainly the legacy of someone who used the political system to fight for change, who used real politics to fight for change, should be an inspiration for us. In particular, in a moment when it seems like a lot of us have lost hope in politics. I think it's important to remember that, sort of, the dirty business of legislative politics is where so much change can happen with real leadership."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "93647198-9ef3-490f-a4e7-6f2b71561189"
+    },
+    {
+      "start_time": 2131,
+      "end_time": 2154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Well said) I think that's spot on. Well said, Zachary. Thank you, Mary Ellen, for joining us today. I want to encourage all of our listeners to read Mary Ellen's really wonderful, entertaining, insightful book, She Changed the Nation: Barbara Jordan's Life and Legacy in Black Politics. It's really worth a read, and I will soon be assigning it to my students, so they won't have much choice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ca62ee7b-b368-44d1-9c78-1c08f2393ba8"
+    },
+    {
+      "start_time": 2154,
+      "end_time": 2157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow. Thank you, Jeremi. It's been a pleasure. And thank you, Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mary Ellen Curtain"
+        }
+      ],
+      "uuid": "1d62eaa4-f4db-485c-92a1-daee8dcc4f06"
+    },
+    {
+      "start_time": 2157,
+      "end_time": 2169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary, thank you for your moving poem, \"Trailblazer.\" And, uh, thank you most of all to our loyal listeners and our loyal readers of our Substack for joining us this week for This Is Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "b8372afd-9756-43ec-bd4a-77df54c266bb"
+    },
+    {
+      "start_time": 2169,
+      "end_time": 2204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts ITS Development Studio. And the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Haris Khodini. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and Stitcher. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "c2a5efdd-f842-4467-8578-f8710d5ec16c"
+    }
+  ],
   "set": "Default",
   "event_id": "66895c29-5fb2-4191-a00d-9b18ff1cd3c5",
   "source_id": "64ba97e4-b8de-46ae-97b6-642694a1a768"
