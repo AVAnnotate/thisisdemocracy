@@ -248,10 +248,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Diplomacy and Peacebuilding"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Voting and Elections"
         },
         {
@@ -265,7 +261,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-05-26T19:48:12.681Z",
+    "updated_at": "2026-05-26T19:48:19.725Z",
     "generate_pages_site": true
   },
   "annotations": {},
