@@ -2881,6 +2881,27 @@
         }
       ],
       "uuid": "ef49df42-a40c-4085-8fd8-9ca63133e616"
+    },
+    {
+      "start_time": 72,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sean is a professor in the Department of Government here at the University of Texas at Austin. As I said, he is an internationally recognized, widely published author and speaker on the various pathologies of the U. S. Congress. Sean has written five outstanding books, many of which have won awards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "00326cec-e0dd-4aeb-85d3-f06f5d1941d2"
     }
   ],
   "set": "Default",
