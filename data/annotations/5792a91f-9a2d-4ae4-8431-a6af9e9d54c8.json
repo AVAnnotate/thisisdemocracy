@@ -77,13 +77,13 @@
     },
     {
       "start_time": 69,
-      "end_time": 90,
+      "end_time": 71,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "My friend and colleague, Sean Theriault. Good morning, Sean. Good morning, Jeremi. Sean is a professor in the Department of Government here at the University of Texas at Austin. As I said, he is an internationally recognized, widely published author and speaker on the various pathologies of the U. S. Congress. Sean has written five outstanding books, many of which have won awards."
+              "text": "My friend and colleague, Sean Theriault. Good morning, Sean."
             }
           ]
         }
@@ -96,10 +96,6 @@
         {
           "tag": "Jeremi Suri",
           "category": "Speakers"
-        },
-        {
-          "category": "Speakers",
-          "tag": "Sean Theriault"
         }
       ],
       "uuid": "83c7bd7b-553d-4728-a4c9-957f2a5c0b17"
